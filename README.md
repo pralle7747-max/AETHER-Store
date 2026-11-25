@@ -10,7 +10,15 @@ Der offizielle Download-Laden & Launcher für alle Aether-Apps.
 Voraussetzung: Windows 10/11 mit Microsoft Edge WebView2 (bei Windows 11 vorinstalliert).
 Der Store aktualisiert sich danach automatisch selbst.
 
-## ✨ Features
+## ✨ Neu in 3.0
+- 🎬 Neue Boot-Animation, Spezial-Intro, Live-Hintergründe und Saison-Events
+- 📰 News & Roadmap · 🤝 Freunde mit „Gerade aktiv“ · ⭐ Bewertungen · 👤 Profile mit Avatar & Banner
+- ✨ **Aether KI** – Empfehlungen, Problemhilfe, Changelog- und Bewertungs-Zusammenfassungen
+- 📊 Spielzeit-Statistiken und 🏆 14 Erfolge
+- „Läuft gerade“ mit Beenden/Neustart, Tray-Modus, Autostart
+- Beta-Kanal und Rollback pro App, Kategorien, Wunschliste, Screenshots
+
+## Features
 - Moderne Oberfläche mit Animationen, 7 Themes und eigener Akzentfarbe
 - **AETHER-Konto** – dasselbe wie in der AETHER-App: Einstellungen & Favoriten auf allen PCs synchron, Geräteübersicht, Postfach
 - Alle Aether-Apps an einem Ort – jeder Download wird per **SHA256** geprüft
