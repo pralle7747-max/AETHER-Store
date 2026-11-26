@@ -5,6 +5,8 @@ on:
     - cron: "*/15 * * * *"   # alle 15 Minuten
   release:
     types: [published, edited, deleted]
+  push:
+    paths: ["announcements.json", ".github/scripts/build_catalog.py"]
   workflow_dispatch:          # manuell: Actions -> "Store-Katalog aktualisieren" -> Run workflow
 
 permissions:
