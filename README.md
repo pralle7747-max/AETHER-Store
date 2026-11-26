@@ -1,14 +1,19 @@
-<p align="center"><img src="logo.png" alt="Aether App Store" width="520"></p>
+<p align="center"><img src="logo.png" alt="Aether Launcher" width="520"></p>
 
-# Aether App Store
+# Aether Launcher
 
-Der offizielle Download-Laden & Launcher für alle Aether-Apps.
+Dein Zuhause für alle Aether-Apps: entdecken, installieren, starten – und mit dem **Aether Overlay** (Alt + Leertaste) über jedem Spiel. *(früher: AETHER Store)*
 
 ## ⬇ Download
-**[AETHER-Store.exe herunterladen](https://github.com/pralle7747-max/AETHER-Store/releases/latest/download/AETHER-Store.exe)** · alle Versionen unter [Releases](https://github.com/pralle7747-max/AETHER-Store/releases)
+**[Aether-Launcher.exe herunterladen](https://github.com/pralle7747-max/AETHER-Store/releases/latest/download/Aether-Launcher.exe)** · alle Versionen unter [Releases](https://github.com/pralle7747-max/AETHER-Store/releases)
 
 Voraussetzung: Windows 10/11 mit Microsoft Edge WebView2 (bei Windows 11 vorinstalliert).
-Der Store aktualisiert sich danach automatisch selbst.
+Der Launcher aktualisiert sich danach automatisch selbst.
+
+## 🎮 Neu in 4.0 – Aether Launcher
+- **Aether Overlay** per `Alt + Leertaste`: Apps starten, Freunde einladen („Komm zocken“), Musik, Clip speichern, PC-Werte, KI – über jedem Spiel
+- 📌 Taskleisten-Schnellstart · 🖼️ eigene Cover & Sounds · 🪪 Profil-Karte zum Teilen · 🌙 Download-Planer
+- „Demnächst“-Karten mit Benachrichtigung
 
 ## ✨ Neu in 3.0
 - 🎬 Neue Boot-Animation, Spezial-Intro, Live-Hintergründe und Saison-Events
