@@ -54,7 +54,7 @@
    "body": "Neuer Name, neues Overlay: Mit Alt + Leertaste hast du Apps, Freunde, KI und Musik jetzt über jedem Spiel."
   }
  ],
- "generated_at": "2026-11-26T18:25:29+00:00",
+ "generated_at": "2026-11-26T18:25:46+00:00",
  "user": "pralle7747-max",
  "repos": [
   {
@@ -500,21 +500,21 @@
   }
  ],
  "store_latest": {
-  "tag_name": "v4.0.1",
-  "name": "Aether Launcher 4.0.1 – Intro-Fix",
-  "body": "## Aether Launcher 4.0.1 – Fehlerbehebung 🔧\n\n- **Behoben:** Das 4.0-Intro konnte auf PCs ohne Grafikkarte schwarz hängen bleiben\n- Im Sparmodus startet das Intro jetzt direkt mit dem Logo (ohne aufwendige Warp-Sterne)\n- Das Intro ist nach spätestens 9 Sekunden garantiert vorbei und startet erst, wenn der Launcher fertig geladen hat\n\n**SHA256:** `1a84c1cbe78f8533f71e482558d8064827f9c0e3b74294c852c3d01f8bbb561c`",
-  "html_url": "https://github.com/pralle7747-max/AETHER-Store/releases/tag/v4.0.1",
-  "published_at": "2026-11-26T16:13:48Z",
-  "created_at": "2026-11-26T16:06:36Z",
+  "tag_name": "v4.1.0",
+  "name": "Aether Launcher 4.1 – Spiele",
+  "body": "## Aether Launcher 4.1 – Spiele 🎮\n\n- **Neu: Bereich „Spiele“** in der Seitenleiste – hier landen ab jetzt alle Aether-Spiele\n- **Erster Blick auf „Aether: Last Signal“** – unser erstes Spiel (Koop-Survival-Roadtrip für 1–2 Spieler) mit Teaser-Trailer inklusive Ton\n- „Demnächst“-Karten können jetzt Bilder und Trailer zeigen\n- „Benachrichtigen“ direkt aus dem Trailer heraus\n- Online-Koop kommt bald\n\n**SHA256:** `90fd81f22a8208fd15f9b243d8fb94e0a1f24db60d86857e8f2a628d11624ec8`",
+  "html_url": "https://github.com/pralle7747-max/AETHER-Store/releases/tag/v4.1.0",
+  "published_at": "2026-11-26T18:25:30Z",
+  "created_at": "2026-11-26T18:25:09Z",
   "prerelease": false,
   "draft": false,
   "assets": [
    {
     "name": "Aether-Launcher.exe",
-    "size": 21444728,
-    "browser_download_url": "https://github.com/pralle7747-max/AETHER-Store/releases/download/v4.0.1/Aether-Launcher.exe",
-    "digest": "sha256:1a84c1cbe78f8533f71e482558d8064827f9c0e3b74294c852c3d01f8bbb561c",
-    "download_count": 3
+    "size": 21450703,
+    "browser_download_url": "https://github.com/pralle7747-max/AETHER-Store/releases/download/v4.1.0/Aether-Launcher.exe",
+    "digest": "sha256:90fd81f22a8208fd15f9b243d8fb94e0a1f24db60d86857e8f2a628d11624ec8",
+    "download_count": 0
    }
   ]
  }
