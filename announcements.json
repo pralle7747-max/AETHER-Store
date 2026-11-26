@@ -25,7 +25,21 @@
       ],
       "image": "https://raw.githubusercontent.com/pralle7747-max/AETHER-Store/main/media/last-signal/trailer.jpg",
       "trailer": "https://raw.githubusercontent.com/pralle7747-max/AETHER-Store/main/media/last-signal/trailer2.mp4",
-      "eta": "In Entwicklung"
+      "eta": "In Entwicklung",
+      "trailers": [
+        {
+          "title": "Story-Trailer",
+          "url": "https://raw.githubusercontent.com/pralle7747-max/AETHER-Store/main/media/last-signal/story.mp4"
+        },
+        {
+          "title": "Feature-Trailer",
+          "url": "https://raw.githubusercontent.com/pralle7747-max/AETHER-Store/main/media/last-signal/trailer2.mp4"
+        },
+        {
+          "title": "Teaser",
+          "url": "https://raw.githubusercontent.com/pralle7747-max/AETHER-Store/main/media/last-signal/teaser.mp4"
+        }
+      ]
     }
   ],
   "news": [
@@ -36,6 +50,14 @@
       "ts": 1795730000000,
       "title": "Nur bis 01.12.: Theme „Last Signal“",
       "body": "Das limitierte Theme im Look unseres ersten Spiels – Pixel-Nachthimmel mit Funkturm. Einmal aktiviert, gehört es dir für immer. Dazu gibt's den neuen Feature-Trailer unter „Spiele“!"
+    },
+    {
+      "kind": "news",
+      "emoji": "🎬",
+      "pinned": false,
+      "ts": 1795735000000,
+      "title": "Neuer Story-Trailer: Aether: Last Signal",
+      "body": "71 Sekunden aus echten Spielszenen – unter „Spiele“ findest du jetzt Story-Trailer, Feature-Trailer und Teaser."
     },
     {
       "kind": "news",
