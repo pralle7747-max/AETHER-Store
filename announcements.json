@@ -17,15 +17,23 @@
       ],
       "badges": ["Koop · 1–2 Spieler", "Sofa-Koop", "Online-Koop kommt bald"],
       "image": "https://raw.githubusercontent.com/pralle7747-max/AETHER-Store/main/media/last-signal/trailer.jpg",
-      "trailer": "https://raw.githubusercontent.com/pralle7747-max/AETHER-Store/main/media/last-signal/teaser.mp4",
+      "trailer": "https://raw.githubusercontent.com/pralle7747-max/AETHER-Store/main/media/last-signal/trailer2.mp4",
       "eta": "In Entwicklung"
     }
   ],
   "news": [
     {
+      "kind": "event",
+      "emoji": "🎨",
+      "pinned": true,
+      "ts": 1795730000000,
+      "title": "Nur bis 01.12.: Theme „Last Signal“",
+      "body": "Das limitierte Theme im Look unseres ersten Spiels – Pixel-Nachthimmel mit Funkturm. Einmal aktiviert, gehört es dir für immer. Dazu gibt's den neuen Feature-Trailer unter „Spiele“!"
+    },
+    {
       "kind": "news",
       "emoji": "📡",
-      "pinned": true,
+      "pinned": false,
       "ts": 1795722000000,
       "title": "Erster Blick: Aether: Last Signal",
       "body": "Unser erstes Spiel! Ein Koop-Survival-Roadtrip für 1–2 Spieler. Den Teaser findest du im neuen Bereich „Spiele“. Online-Koop kommt bald."
