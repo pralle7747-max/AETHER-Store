@@ -24,15 +24,23 @@
     "Online-Koop kommt bald"
    ],
    "image": "https://raw.githubusercontent.com/pralle7747-max/AETHER-Store/main/media/last-signal/trailer.jpg",
-   "trailer": "https://raw.githubusercontent.com/pralle7747-max/AETHER-Store/main/media/last-signal/teaser.mp4",
+   "trailer": "https://raw.githubusercontent.com/pralle7747-max/AETHER-Store/main/media/last-signal/trailer2.mp4",
    "eta": "In Entwicklung"
   }
  ],
  "news": [
   {
+   "kind": "event",
+   "emoji": "🎨",
+   "pinned": true,
+   "ts": 1795730000000,
+   "title": "Nur bis 01.12.: Theme „Last Signal“",
+   "body": "Das limitierte Theme im Look unseres ersten Spiels – Pixel-Nachthimmel mit Funkturm. Einmal aktiviert, gehört es dir für immer. Dazu gibt's den neuen Feature-Trailer unter „Spiele“!"
+  },
+  {
    "kind": "news",
    "emoji": "📡",
-   "pinned": true,
+   "pinned": false,
    "ts": 1795722000000,
    "title": "Erster Blick: Aether: Last Signal",
    "body": "Unser erstes Spiel! Ein Koop-Survival-Roadtrip für 1–2 Spieler. Den Teaser findest du im neuen Bereich „Spiele“. Online-Koop kommt bald."
@@ -54,7 +62,7 @@
    "body": "Neuer Name, neues Overlay: Mit Alt + Leertaste hast du Apps, Freunde, KI und Musik jetzt über jedem Spiel."
   }
  ],
- "generated_at": "2026-11-26T18:25:46+00:00",
+ "generated_at": "2026-11-26T18:50:13+00:00",
  "user": "pralle7747-max",
  "repos": [
   {
@@ -160,7 +168,7 @@
        "size": 24318770,
        "browser_download_url": "https://github.com/pralle7747-max/AETHER-Rig/releases/download/v1.0.0/AETHER-Rig.exe",
        "digest": "sha256:698434598bdadda9c8949847c3f18c0192a81bbb512516c5fcf1de8e62629284",
-       "download_count": 1
+       "download_count": 2
       }
      ]
     }
@@ -500,20 +508,20 @@
   }
  ],
  "store_latest": {
-  "tag_name": "v4.1.0",
-  "name": "Aether Launcher 4.1 – Spiele",
-  "body": "## Aether Launcher 4.1 – Spiele 🎮\n\n- **Neu: Bereich „Spiele“** in der Seitenleiste – hier landen ab jetzt alle Aether-Spiele\n- **Erster Blick auf „Aether: Last Signal“** – unser erstes Spiel (Koop-Survival-Roadtrip für 1–2 Spieler) mit Teaser-Trailer inklusive Ton\n- „Demnächst“-Karten können jetzt Bilder und Trailer zeigen\n- „Benachrichtigen“ direkt aus dem Trailer heraus\n- Online-Koop kommt bald\n\n**SHA256:** `90fd81f22a8208fd15f9b243d8fb94e0a1f24db60d86857e8f2a628d11624ec8`",
-  "html_url": "https://github.com/pralle7747-max/AETHER-Store/releases/tag/v4.1.0",
-  "published_at": "2026-11-26T18:25:30Z",
-  "created_at": "2026-11-26T18:25:09Z",
+  "tag_name": "v4.2.0",
+  "name": "Aether Launcher 4.2 – Last Signal Event",
+  "body": "## Aether Launcher 4.2 – Last Signal Event 📡\n\n- **Limitiertes Theme „Last Signal“** – nur bis 01.12. verfügbar! Einmal aktiviert, bleibt es für immer in deinem Konto (auch auf anderen PCs)\n- Pixel-Nachthimmel mit Funkturm als Hintergrund, eigene Farben im Look des Spiels\n- **Neuer Feature-Trailer** zu Aether: Last Signal im Bereich „Spiele“\n**SHA256:** `7370d74979940f509672ab2ab9178bcfba79a868c64e511aab48f8b968bf196e`",
+  "html_url": "https://github.com/pralle7747-max/AETHER-Store/releases/tag/v4.2.0",
+  "published_at": "2026-11-26T18:50:06Z",
+  "created_at": "2026-11-26T18:49:55Z",
   "prerelease": false,
   "draft": false,
   "assets": [
    {
     "name": "Aether-Launcher.exe",
-    "size": 21450703,
-    "browser_download_url": "https://github.com/pralle7747-max/AETHER-Store/releases/download/v4.1.0/Aether-Launcher.exe",
-    "digest": "sha256:90fd81f22a8208fd15f9b243d8fb94e0a1f24db60d86857e8f2a628d11624ec8",
+    "size": 21533796,
+    "browser_download_url": "https://github.com/pralle7747-max/AETHER-Store/releases/download/v4.2.0/Aether-Launcher.exe",
+    "digest": "sha256:7370d74979940f509672ab2ab9178bcfba79a868c64e511aab48f8b968bf196e",
     "download_count": 0
    }
   ]
