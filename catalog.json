@@ -53,7 +53,7 @@
    "body": "Neuer Name, neues Overlay: Mit Alt + Leertaste hast du Apps, Freunde, KI und Musik jetzt über jedem Spiel."
   }
  ],
- "generated_at": "2026-11-26T16:06:36+00:00",
+ "generated_at": "2026-11-26T16:13:59+00:00",
  "user": "pralle7747-max",
  "repos": [
   {
@@ -358,20 +358,20 @@
   }
  ],
  "store_latest": {
-  "tag_name": "v4.0.0",
-  "name": "Aether Launcher 4.0",
-  "body": "## 🎮 Aether Launcher 4.0 – aus AETHER Store wird Aether Launcher\n\n**Aether Overlay** – drück **Alt + Leertaste**, egal wo du bist:\n- Apps starten (mit Suche), Freunde online sehen und **„Komm zocken“-Einladungen** schicken\n- Musik & Lautstärke steuern, **Clip speichern** (mit Aether Replay), CPU/RAM/Akku im Blick\n- Kurz die **Aether KI** fragen\n\n**Außerdem neu**\n- 📌 **Taskleisten-Schnellstart**: Rechtsklick aufs Symbol → zuletzt gespielte Apps starten\n- 🖼️ **Eigene Cover** für App-Kacheln & optionale **Sounds**\n- 🪪 **Profil-Karte** als Bild für Insta, Discord & Co.\n- 🌙 **Download-Planer**: später laden, Updates nachts, Downloads pausieren\n- ✨ **Demnächst**: Aether Replay & Aether Rig – jetzt auf „Benachrichtigen“ klicken\n- ⚡ Downloads so schnell wie deine Leitung\n\nDeine Einstellungen, dein Konto und deine Apps bleiben erhalten.\n\n**SHA256:** `47eb6205c17343203384c1887793f3543c86120f31680a48ac1a204f3eb71a2f`",
-  "html_url": "https://github.com/pralle7747-max/AETHER-Store/releases/tag/v4.0.0",
-  "published_at": "2026-11-26T16:06:23Z",
-  "created_at": "2026-11-26T15:56:36Z",
+  "tag_name": "v4.0.1",
+  "name": "Aether Launcher 4.0.1 – Intro-Fix",
+  "body": "## Aether Launcher 4.0.1 – Fehlerbehebung 🔧\n\n- **Behoben:** Das 4.0-Intro konnte auf PCs ohne Grafikkarte schwarz hängen bleiben\n- Im Sparmodus startet das Intro jetzt direkt mit dem Logo (ohne aufwendige Warp-Sterne)\n- Das Intro ist nach spätestens 9 Sekunden garantiert vorbei und startet erst, wenn der Launcher fertig geladen hat\n\n**SHA256:** `1a84c1cbe78f8533f71e482558d8064827f9c0e3b74294c852c3d01f8bbb561c`",
+  "html_url": "https://github.com/pralle7747-max/AETHER-Store/releases/tag/v4.0.1",
+  "published_at": "2026-11-26T16:13:48Z",
+  "created_at": "2026-11-26T16:06:36Z",
   "prerelease": false,
   "draft": false,
   "assets": [
    {
     "name": "Aether-Launcher.exe",
-    "size": 21442380,
-    "browser_download_url": "https://github.com/pralle7747-max/AETHER-Store/releases/download/v4.0.0/Aether-Launcher.exe",
-    "digest": "sha256:47eb6205c17343203384c1887793f3543c86120f31680a48ac1a204f3eb71a2f",
+    "size": 21444728,
+    "browser_download_url": "https://github.com/pralle7747-max/AETHER-Store/releases/download/v4.0.1/Aether-Launcher.exe",
+    "digest": "sha256:1a84c1cbe78f8533f71e482558d8064827f9c0e3b74294c852c3d01f8bbb561c",
     "download_count": 0
    }
   ]
