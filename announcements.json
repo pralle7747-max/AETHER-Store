@@ -1,0 +1,56 @@
+{
+  "_hinweis": "Ankündigungen für den Aether Launcher. 'coming_soon' erscheint als 'Demnächst'-Karte, bis ein echtes Release mit derselben id existiert (id = Repo-Name in Kleinbuchstaben). 'news' erscheint unter News.",
+  "coming_soon": [
+    {
+      "id": "aether-replay",
+      "name": "Aether Replay",
+      "tab": "aether",
+      "icon_emoji": "🎬",
+      "topics": [
+        "gaming"
+      ],
+      "beschreibung": "Gaming-Clips per Tastendruck: die letzten 30 Sekunden speichern, schneiden und im Hochformat für TikTok, Shorts & Reels exportieren.",
+      "highlights": [
+        "Rückblick-Aufnahme",
+        "Editor mit Musik & Text",
+        "TikTok-Hochformat"
+      ],
+      "eta": "Bald"
+    },
+    {
+      "id": "aether-rig",
+      "name": "Aether Rig",
+      "tab": "aether",
+      "icon_emoji": "🖥️",
+      "topics": [
+        "gaming",
+        "system"
+      ],
+      "beschreibung": "Dein Gaming-PC-Cockpit: Hardware & Temperaturen, Treiber-Check, alle Spiele von Steam, Epic & Co. an einem Ort, „Läuft das bei mir?“ und Boost-Modus.",
+      "highlights": [
+        "Alle Spiele an einem Ort",
+        "Läuft das bei mir?",
+        "Boost & Aufräumen"
+      ],
+      "eta": "Bald"
+    }
+  ],
+  "news": [
+    {
+      "kind": "news",
+      "emoji": "🚀",
+      "pinned": true,
+      "ts": 1795708561263,
+      "title": "Bald: Aether Replay & Aether Rig",
+      "body": "Zwei neue Apps sind in Arbeit – Clips für deine besten Gaming-Momente und ein Cockpit für deinen PC. Klick auf „Benachrichtigen“, dann sagen wir dir Bescheid, sobald sie da sind!"
+    },
+    {
+      "kind": "news",
+      "emoji": "✨",
+      "pinned": false,
+      "ts": 1795708560263,
+      "title": "Aus AETHER Store wird Aether Launcher",
+      "body": "Neuer Name, neues Overlay: Mit Alt + Leertaste hast du Apps, Freunde, KI und Musik jetzt über jedem Spiel."
+    }
+  ]
+}
