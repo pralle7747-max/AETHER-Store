@@ -6,7 +6,10 @@
       "name": "Aether: Last Signal",
       "tab": "spiele",
       "icon_emoji": "📡",
-      "topics": ["game", "coop"],
+      "topics": [
+        "game",
+        "coop"
+      ],
       "beschreibung": "Koop-Survival-Roadtrip in Pixel-Art: Wählt eure Route über eine zufällige Karte, erkundet tagsüber, verteidigt euch nachts – und sendet am alten Funkturm das letzte Signal.",
       "story": "„…hier Forschungsstation 7 … wir haben gesendet … niemand ist gekommen …“ – Ihr seid nicht die Ersten.",
       "highlights": [
@@ -15,7 +18,11 @@
         "Mehrere Bosse am Funkturm",
         "Rollen freischalten: Techniker, Späher und mehr"
       ],
-      "badges": ["Koop · 1–2 Spieler", "Sofa-Koop", "Online-Koop kommt bald"],
+      "badges": [
+        "Koop · 1–2 Spieler",
+        "Sofa-Koop",
+        "Online-Koop kommt bald"
+      ],
       "image": "https://raw.githubusercontent.com/pralle7747-max/AETHER-Store/main/media/last-signal/trailer.jpg",
       "trailer": "https://raw.githubusercontent.com/pralle7747-max/AETHER-Store/main/media/last-signal/trailer2.mp4",
       "eta": "In Entwicklung"
@@ -29,6 +36,14 @@
       "ts": 1795730000000,
       "title": "Nur bis 01.12.: Theme „Last Signal“",
       "body": "Das limitierte Theme im Look unseres ersten Spiels – Pixel-Nachthimmel mit Funkturm. Einmal aktiviert, gehört es dir für immer. Dazu gibt's den neuen Feature-Trailer unter „Spiele“!"
+    },
+    {
+      "kind": "news",
+      "emoji": "🍎",
+      "pinned": false,
+      "ts": 1795731000000,
+      "title": "Jetzt auch für den Mac",
+      "body": "Der Aether Launcher läuft jetzt auch auf dem Mac – für Apple-Chip (ab macOS 11) und Intel (ab macOS 10.15 Catalina). Download auf GitHub unter AETHER-Store → Releases."
     },
     {
       "kind": "news",
