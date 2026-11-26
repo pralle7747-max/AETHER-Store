@@ -70,7 +70,7 @@
    "body": "Neuer Name, neues Overlay: Mit Alt + Leertaste hast du Apps, Freunde, KI und Musik jetzt über jedem Spiel."
   }
  ],
- "generated_at": "2026-11-26T20:26:41+00:00",
+ "generated_at": "2026-11-26T20:48:02+00:00",
  "user": "pralle7747-max",
  "repos": [
   {
@@ -516,48 +516,48 @@
   }
  ],
  "store_latest": {
-  "tag_name": "v4.3.0",
-  "name": "Aether Launcher 4.3 – jetzt auch für den Mac",
-  "body": "## Aether Launcher 4.3 – jetzt auch für den Mac 🍎\n\n**Downloads**\n- 🪟 **Windows:** `Aether-Launcher.exe`\n- 🍎 **Mac mit Apple-Chip (M1–M4 …):** `Aether-Launcher-mac-arm64.dmg` – ab macOS 11 Big Sur\n- 🍎 **Mac mit Intel-Prozessor:** `Aether-Launcher-mac-intel.dmg` – ab macOS 10.15 Catalina (also auch Big Sur, Monterey, Ventura, Sonoma, Sequoia …)\n\nWelcher Mac? Apfel-Menü → „Über diesen Mac“: Steht dort „Chip Apple M…“ → arm64, steht dort „Prozessor Intel“ → intel.\n\n**Mac installieren**\n1. DMG öffnen und „Aether Launcher“ auf „Programme“ ziehen.\n2. Beim ersten Start meldet macOS, dass der Entwickler nicht verifiziert ist:\n   - macOS 15 und neuer: Systemeinstellungen → Datenschutz & Sicherheit → „Dennoch öffnen“\n   - macOS 14 und älter: Rechtsklick auf die App → „Öffnen“ → „Öffnen“\n3. Danach aktualisiert sich der Launcher selbst.\n\n**Was auf dem Mac schon geht:** Konto & Sync, Freunde, News, KI, Themes (auch das limitierte „Last Signal“), der Spiele-Bereich mit Trailern.\n**Noch nicht auf dem Mac:** die Apps im Katalog (das sind Windows-Programme), Overlay, Tray und Autostart.\n\n**Auch neu für alle**\n- Bessere Darstellung auf älteren Systemen\n- Kleinere Aufräumarbeiten im Hintergrund\n",
-  "html_url": "https://github.com/pralle7747-max/AETHER-Store/releases/tag/v4.3.0",
-  "published_at": "2026-11-26T20:25:40Z",
-  "created_at": "2026-11-26T18:50:13Z",
+  "tag_name": "v4.3.1",
+  "name": "Aether Launcher 4.3.1 – Mac-Start repariert",
+  "body": "## Aether Launcher 4.3.1 – Mac-Start repariert 🍎\n\n- **Mac:** Der Launcher blieb beim Startbildschirm hängen – behoben.\n- **Mac:** Keine Abfrage „Geräte im lokalen Netzwerk finden?“ mehr.\n- **Alle:** Fehler in der Start-Animation behoben.\n- Startfehler werden jetzt direkt auf dem Startbildschirm angezeigt statt endlos zu laden.\n\n**Downloads**\n- 🪟 Windows: `Aether-Launcher.exe`\n- 🍎 Mac mit Apple-Chip (ab macOS 11): `Aether-Launcher-mac-arm64.dmg`\n- 🍎 Mac mit Intel (ab macOS 10.15): `Aether-Launcher-mac-intel.dmg`\n\nMac: DMG öffnen → App auf „Programme“ ziehen (alte Version ersetzen). Erster Start ab macOS 15: Systemeinstellungen → Datenschutz & Sicherheit → „Dennoch öffnen“.\n",
+  "html_url": "https://github.com/pralle7747-max/AETHER-Store/releases/tag/v4.3.1",
+  "published_at": "2026-11-26T20:47:50Z",
+  "created_at": "2026-11-26T20:26:41Z",
   "prerelease": false,
   "draft": false,
   "assets": [
    {
     "name": "Aether-Launcher-mac-arm64.dmg",
-    "size": 21314475,
-    "browser_download_url": "https://github.com/pralle7747-max/AETHER-Store/releases/download/v4.3.0/Aether-Launcher-mac-arm64.dmg",
-    "digest": "sha256:26cfc8dfa2a8992e25d1c6e5140e9e455504d9812ed120dad7b50ca27a2192a7",
+    "size": 20675459,
+    "browser_download_url": "https://github.com/pralle7747-max/AETHER-Store/releases/download/v4.3.1/Aether-Launcher-mac-arm64.dmg",
+    "digest": "sha256:e02d6961cafdb586bbb57f1ab7d65f2dd12650236a8073b7a985bfc6f6ce6d6e",
     "download_count": 0
    },
    {
     "name": "Aether-Launcher-mac-arm64.zip",
-    "size": 18990224,
-    "browser_download_url": "https://github.com/pralle7747-max/AETHER-Store/releases/download/v4.3.0/Aether-Launcher-mac-arm64.zip",
-    "digest": "sha256:f07e19cb3250a826ef4390f6266f6603cddc3e0403eb0981e6c37cf36ad3ee33",
+    "size": 18993261,
+    "browser_download_url": "https://github.com/pralle7747-max/AETHER-Store/releases/download/v4.3.1/Aether-Launcher-mac-arm64.zip",
+    "digest": "sha256:66f3378f7d23b66d5e9c68dc2a58aae1c08d75572acbf4293d7a006ee564e8ee",
     "download_count": 0
    },
    {
     "name": "Aether-Launcher-mac-intel.dmg",
-    "size": 22448432,
-    "browser_download_url": "https://github.com/pralle7747-max/AETHER-Store/releases/download/v4.3.0/Aether-Launcher-mac-intel.dmg",
-    "digest": "sha256:fdae360708316ae186b3e5a55671b7152f2408f64d8a252f559d62c9e0074733",
+    "size": 22346712,
+    "browser_download_url": "https://github.com/pralle7747-max/AETHER-Store/releases/download/v4.3.1/Aether-Launcher-mac-intel.dmg",
+    "digest": "sha256:287243bf167aaf3eb3126cc36868d14b77ed843b2e66f6d932befb60a17f1764",
     "download_count": 0
    },
    {
     "name": "Aether-Launcher-mac-intel.zip",
-    "size": 19853098,
-    "browser_download_url": "https://github.com/pralle7747-max/AETHER-Store/releases/download/v4.3.0/Aether-Launcher-mac-intel.zip",
-    "digest": "sha256:fb072712e7326ec48860639887ce13fb59e3eb1e93d09c0b50b449048cc03bbe",
+    "size": 19855900,
+    "browser_download_url": "https://github.com/pralle7747-max/AETHER-Store/releases/download/v4.3.1/Aether-Launcher-mac-intel.zip",
+    "digest": "sha256:bb47646202664902c7e70608d5c8ad145980f7466de2fb278542b65c164102af",
     "download_count": 0
    },
    {
     "name": "Aether-Launcher.exe",
-    "size": 21542700,
-    "browser_download_url": "https://github.com/pralle7747-max/AETHER-Store/releases/download/v4.3.0/Aether-Launcher.exe",
-    "digest": "sha256:18cd45f0902a094b3886eefdfb41f20d92f80dffa1fa628927327c481aa3789e",
+    "size": 21543747,
+    "browser_download_url": "https://github.com/pralle7747-max/AETHER-Store/releases/download/v4.3.1/Aether-Launcher.exe",
+    "digest": "sha256:5e855a433d1db40b2b005555e9ab1d9c47dce03005bfb801fdefb1c5e56a0fec",
     "download_count": 0
    }
   ]
