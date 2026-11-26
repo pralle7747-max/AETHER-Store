@@ -62,7 +62,7 @@
    "body": "Neuer Name, neues Overlay: Mit Alt + Leertaste hast du Apps, Freunde, KI und Musik jetzt über jedem Spiel."
   }
  ],
- "generated_at": "2026-11-26T18:50:13+00:00",
+ "generated_at": "2026-11-26T20:25:53+00:00",
  "user": "pralle7747-max",
  "repos": [
   {
@@ -508,20 +508,48 @@
   }
  ],
  "store_latest": {
-  "tag_name": "v4.2.0",
-  "name": "Aether Launcher 4.2 – Last Signal Event",
-  "body": "## Aether Launcher 4.2 – Last Signal Event 📡\n\n- **Limitiertes Theme „Last Signal“** – nur bis 01.12. verfügbar! Einmal aktiviert, bleibt es für immer in deinem Konto (auch auf anderen PCs)\n- Pixel-Nachthimmel mit Funkturm als Hintergrund, eigene Farben im Look des Spiels\n- **Neuer Feature-Trailer** zu Aether: Last Signal im Bereich „Spiele“\n**SHA256:** `7370d74979940f509672ab2ab9178bcfba79a868c64e511aab48f8b968bf196e`",
-  "html_url": "https://github.com/pralle7747-max/AETHER-Store/releases/tag/v4.2.0",
-  "published_at": "2026-11-26T18:50:06Z",
-  "created_at": "2026-11-26T18:49:55Z",
+  "tag_name": "v4.3.0",
+  "name": "Aether Launcher 4.3 – jetzt auch für den Mac",
+  "body": "## Aether Launcher 4.3 – jetzt auch für den Mac 🍎\n\n**Downloads**\n- 🪟 **Windows:** `Aether-Launcher.exe`\n- 🍎 **Mac mit Apple-Chip (M1–M4 …):** `Aether-Launcher-mac-arm64.dmg` – ab macOS 11 Big Sur\n- 🍎 **Mac mit Intel-Prozessor:** `Aether-Launcher-mac-intel.dmg` – ab macOS 10.15 Catalina (also auch Big Sur, Monterey, Ventura, Sonoma, Sequoia …)\n\nWelcher Mac? Apfel-Menü → „Über diesen Mac“: Steht dort „Chip Apple M…“ → arm64, steht dort „Prozessor Intel“ → intel.\n\n**Mac installieren**\n1. DMG öffnen und „Aether Launcher“ auf „Programme“ ziehen.\n2. Beim ersten Start meldet macOS, dass der Entwickler nicht verifiziert ist:\n   - macOS 15 und neuer: Systemeinstellungen → Datenschutz & Sicherheit → „Dennoch öffnen“\n   - macOS 14 und älter: Rechtsklick auf die App → „Öffnen“ → „Öffnen“\n3. Danach aktualisiert sich der Launcher selbst.\n\n**Was auf dem Mac schon geht:** Konto & Sync, Freunde, News, KI, Themes (auch das limitierte „Last Signal“), der Spiele-Bereich mit Trailern.\n**Noch nicht auf dem Mac:** die Apps im Katalog (das sind Windows-Programme), Overlay, Tray und Autostart.\n\n**Auch neu für alle**\n- Bessere Darstellung auf älteren Systemen\n- Kleinere Aufräumarbeiten im Hintergrund\n",
+  "html_url": "https://github.com/pralle7747-max/AETHER-Store/releases/tag/v4.3.0",
+  "published_at": "2026-11-26T20:25:40Z",
+  "created_at": "2026-11-26T18:50:13Z",
   "prerelease": false,
   "draft": false,
   "assets": [
    {
+    "name": "Aether-Launcher-mac-arm64.dmg",
+    "size": 21314475,
+    "browser_download_url": "https://github.com/pralle7747-max/AETHER-Store/releases/download/v4.3.0/Aether-Launcher-mac-arm64.dmg",
+    "digest": "sha256:26cfc8dfa2a8992e25d1c6e5140e9e455504d9812ed120dad7b50ca27a2192a7",
+    "download_count": 0
+   },
+   {
+    "name": "Aether-Launcher-mac-arm64.zip",
+    "size": 18990224,
+    "browser_download_url": "https://github.com/pralle7747-max/AETHER-Store/releases/download/v4.3.0/Aether-Launcher-mac-arm64.zip",
+    "digest": "sha256:f07e19cb3250a826ef4390f6266f6603cddc3e0403eb0981e6c37cf36ad3ee33",
+    "download_count": 0
+   },
+   {
+    "name": "Aether-Launcher-mac-intel.dmg",
+    "size": 22448432,
+    "browser_download_url": "https://github.com/pralle7747-max/AETHER-Store/releases/download/v4.3.0/Aether-Launcher-mac-intel.dmg",
+    "digest": "sha256:fdae360708316ae186b3e5a55671b7152f2408f64d8a252f559d62c9e0074733",
+    "download_count": 0
+   },
+   {
+    "name": "Aether-Launcher-mac-intel.zip",
+    "size": 19853098,
+    "browser_download_url": "https://github.com/pralle7747-max/AETHER-Store/releases/download/v4.3.0/Aether-Launcher-mac-intel.zip",
+    "digest": "sha256:fb072712e7326ec48860639887ce13fb59e3eb1e93d09c0b50b449048cc03bbe",
+    "download_count": 0
+   },
+   {
     "name": "Aether-Launcher.exe",
-    "size": 21533796,
-    "browser_download_url": "https://github.com/pralle7747-max/AETHER-Store/releases/download/v4.2.0/Aether-Launcher.exe",
-    "digest": "sha256:7370d74979940f509672ab2ab9178bcfba79a868c64e511aab48f8b968bf196e",
+    "size": 21542700,
+    "browser_download_url": "https://github.com/pralle7747-max/AETHER-Store/releases/download/v4.3.0/Aether-Launcher.exe",
+    "digest": "sha256:18cd45f0902a094b3886eefdfb41f20d92f80dffa1fa628927327c481aa3789e",
     "download_count": 0
    }
   ]
