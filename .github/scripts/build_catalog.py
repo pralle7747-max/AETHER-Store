@@ -74,8 +74,15 @@ def main():
                             and s["name"].lower().endswith((".png", ".jpg", ".jpeg", ".webp", ".gif", ".mp4", ".webm"))],
         })
 
+    ann = {}
+    try:
+        ann = json.load(open("announcements.json", encoding="utf-8"))
+    except (OSError, ValueError):
+        pass
     catalog = {
         "schema": 1,
+        "coming_soon": [c for c in ann.get("coming_soon", []) if isinstance(c, dict) and c.get("id")],
+        "news": [n for n in ann.get("news", []) if isinstance(n, dict) and n.get("title")],
         "generated_at": datetime.now(timezone.utc).isoformat(timespec="seconds"),
         "user": USER,
         "repos": out_repos,
