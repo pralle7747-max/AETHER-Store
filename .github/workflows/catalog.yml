@@ -2,7 +2,7 @@ name: Store-Katalog aktualisieren
 
 on:
   schedule:
-    - cron: "*/15 * * * *"   # alle 15 Minuten
+    - cron: "*/5 * * * *"    # alle 5 Minuten (Minimum bei GitHub)
   release:
     types: [published, edited, deleted]
   push:
