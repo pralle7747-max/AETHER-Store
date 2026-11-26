@@ -92,9 +92,58 @@
    "body": "Neuer Name, neues Overlay: Mit Alt + Leertaste hast du Apps, Freunde, KI und Musik jetzt über jedem Spiel."
   }
  ],
- "generated_at": "2026-11-26T22:15:20+00:00",
+ "generated_at": "2026-11-26T22:36:32+00:00",
  "user": "pralle7747-max",
  "repos": [
+  {
+   "name": "AETHER-Last-Signal",
+   "full_name": "pralle7747-max/AETHER-Last-Signal",
+   "description": "Aether: Last Signal – Koop-Survival-Roadtrip für 1–2 Spieler.",
+   "html_url": "https://github.com/pralle7747-max/AETHER-Last-Signal",
+   "homepage": null,
+   "language": null,
+   "topics": [
+    "game"
+   ],
+   "stargazers_count": 0,
+   "pushed_at": "2026-11-26T22:36:17Z",
+   "releases": [
+    {
+     "tag_name": "v0.6.0",
+     "name": "Aether: Last Signal – Beta 0.6.0",
+     "body": "Erste öffentliche Beta von Aether: Last Signal, einem Survival-Roadtrip für 1–2 Spieler im lokalen Koop.\n\n- **Windows** · `AETHER-Last-Signal.exe` herunterladen und starten.\n- **macOS** · `AETHER-Last-Signal-macOS.zip` entpacken. Enthält die App für Intel und Apple Silicon. Die Beta ist nicht von Apple notarisiert.\n- **Anleitung** · `BETA-LIESMICH.txt` enthält Hinweise zum Start, zur Steuerung und zum Melden von Fehlern.\r\n",
+     "html_url": "https://github.com/pralle7747-max/AETHER-Last-Signal/releases/tag/v0.6.0",
+     "published_at": "2026-11-26T22:36:18Z",
+     "created_at": "2026-11-26T22:35:19Z",
+     "prerelease": true,
+     "draft": false,
+     "assets": [
+      {
+       "name": "AETHER-Last-Signal-macOS.zip",
+       "size": 62620818,
+       "browser_download_url": "https://github.com/pralle7747-max/AETHER-Last-Signal/releases/download/v0.6.0/AETHER-Last-Signal-macOS.zip",
+       "digest": "sha256:c44e8b0ad17623af29818754293cd7e539cdde097f00829b09cee3471b355eba",
+       "download_count": 0
+      },
+      {
+       "name": "AETHER-Last-Signal.exe",
+       "size": 111221112,
+       "browser_download_url": "https://github.com/pralle7747-max/AETHER-Last-Signal/releases/download/v0.6.0/AETHER-Last-Signal.exe",
+       "digest": "sha256:b0e904263a9761a01683e7580263ee08ecb79b8007dd28d83a07caeb69de8ca9",
+       "download_count": 0
+      },
+      {
+       "name": "BETA-LIESMICH.txt",
+       "size": 1503,
+       "browser_download_url": "https://github.com/pralle7747-max/AETHER-Last-Signal/releases/download/v0.6.0/BETA-LIESMICH.txt",
+       "digest": "sha256:4237bc9579f4ab8b6f49ecf18e14cc14ad37402c4ba348fb48b805616152422a",
+       "download_count": 0
+      }
+     ]
+    }
+   ],
+   "screenshots": []
+  },
   {
    "name": "AETHER-Replay",
    "full_name": "pralle7747-max/AETHER-Replay",
@@ -594,7 +643,7 @@
     "size": 21572501,
     "browser_download_url": "https://github.com/pralle7747-max/AETHER-Store/releases/download/v4.4.2/Aether-Launcher.exe",
     "digest": "sha256:408f18ba82b5ef18713b589133ee786a3a64c58ca53aa225d927985f3bce6e53",
-    "download_count": 0
+    "download_count": 1
    }
   ]
  }
