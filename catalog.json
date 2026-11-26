@@ -1,0 +1,326 @@
+{
+ "schema": 1,
+ "generated_at": "2026-11-26T15:32:52+00:00",
+ "user": "pralle7747-max",
+ "repos": [
+  {
+   "name": "Samsung-cam-2.0",
+   "full_name": "pralle7747-max/Samsung-cam-2.0",
+   "description": null,
+   "html_url": "https://github.com/pralle7747-max/Samsung-cam-2.0",
+   "homepage": null,
+   "language": "Kotlin",
+   "topics": [],
+   "stargazers_count": 0,
+   "pushed_at": "2026-11-26T15:29:24Z",
+   "releases": [
+    {
+     "tag_name": "v26",
+     "name": "AETHER Navigation 26",
+     "body": "AETHER Navigation für Windows (Version 26).\n\n- Navigation für Auto, Fahrrad, zu Fuß und Bahn\n- AETHER-Konto: Favoriten und Einstellungen auf allen Geräten synchron\n- Handy-App (Android): AETHER-Handy-v53.apk",
+     "html_url": "https://github.com/pralle7747-max/Samsung-cam-2.0/releases/tag/v26",
+     "published_at": "2026-11-26T15:29:24Z",
+     "created_at": "2026-11-26T15:29:04Z",
+     "prerelease": false,
+     "draft": false,
+     "assets": [
+      {
+       "name": "AETHER-Handy-v53.apk",
+       "size": 5939379,
+       "browser_download_url": "https://github.com/pralle7747-max/Samsung-cam-2.0/releases/download/v26/AETHER-Handy-v53.apk",
+       "digest": "sha256:b44f8dc54dd94967ab26a18b3d1fd1c3dea8c5ca96c0517beae19c67d2d0cbdf",
+       "download_count": 0
+      },
+      {
+       "name": "AETHER-v26.exe",
+       "size": 81500207,
+       "browser_download_url": "https://github.com/pralle7747-max/Samsung-cam-2.0/releases/download/v26/AETHER-v26.exe",
+       "digest": "sha256:f649dcf139919a561200d9e6e506764f78c322b189bdd7b869cad10bd793fcef",
+       "download_count": 0
+      }
+     ]
+    }
+   ],
+   "screenshots": []
+  },
+  {
+   "name": "AETHER-Minecraft-Markt",
+   "full_name": "pralle7747-max/AETHER-Minecraft-Markt",
+   "description": null,
+   "html_url": "https://github.com/pralle7747-max/AETHER-Minecraft-Markt",
+   "homepage": null,
+   "language": null,
+   "topics": [],
+   "stargazers_count": 0,
+   "pushed_at": "2026-10-17T21:09:22Z",
+   "releases": [
+    {
+     "tag_name": "RELESE",
+     "name": "Aether Markt",
+     "body": "",
+     "html_url": "https://github.com/pralle7747-max/AETHER-Minecraft-Markt/releases/tag/RELESE",
+     "published_at": "2026-10-17T21:09:22Z",
+     "created_at": "2026-10-17T21:07:05Z",
+     "prerelease": false,
+     "draft": false,
+     "assets": [
+      {
+       "name": "Minecraft.Market.exe",
+       "size": 20523546,
+       "browser_download_url": "https://github.com/pralle7747-max/AETHER-Minecraft-Markt/releases/download/RELESE/Minecraft.Market.exe",
+       "digest": "sha256:851c40aec7efeece1cfea896e04a14e4a9519f452482945e9c60d890c284dc3d",
+       "download_count": 5
+      }
+     ]
+    }
+   ],
+   "screenshots": []
+  },
+  {
+   "name": "AETHER-OS",
+   "full_name": "pralle7747-max/AETHER-OS",
+   "description": null,
+   "html_url": "https://github.com/pralle7747-max/AETHER-OS",
+   "homepage": null,
+   "language": null,
+   "topics": [],
+   "stargazers_count": 0,
+   "pushed_at": "2026-10-16T23:10:15Z",
+   "releases": [
+    {
+     "tag_name": "RELESE",
+     "name": "AETHER OS x AETHER LAUNCHER RELESE",
+     "body": "",
+     "html_url": "https://github.com/pralle7747-max/AETHER-OS/releases/tag/RELESE",
+     "published_at": "2026-10-16T23:10:16Z",
+     "created_at": "2026-10-16T23:09:26Z",
+     "prerelease": false,
+     "draft": false,
+     "assets": [
+      {
+       "name": "AetherLauncher.exe",
+       "size": 37820540,
+       "browser_download_url": "https://github.com/pralle7747-max/AETHER-OS/releases/download/RELESE/AetherLauncher.exe",
+       "digest": "sha256:bdb8c28fe2e337a0d4c389acf7d8a69ceefd783790db9f0575bfb6c8c0d82454",
+       "download_count": 6
+      }
+     ]
+    }
+   ],
+   "screenshots": []
+  },
+  {
+   "name": "VAULT-PassWord-Manager",
+   "full_name": "pralle7747-max/VAULT-PassWord-Manager",
+   "description": null,
+   "html_url": "https://github.com/pralle7747-max/VAULT-PassWord-Manager",
+   "homepage": null,
+   "language": null,
+   "topics": [],
+   "stargazers_count": 0,
+   "pushed_at": "2026-10-15T20:06:53Z",
+   "releases": [
+    {
+     "tag_name": "1.1.1.0",
+     "name": "Realese 1.1.1.0",
+     "body": "",
+     "html_url": "https://github.com/pralle7747-max/VAULT-PassWord-Manager/releases/tag/1.1.1.0",
+     "published_at": "2026-10-15T20:06:54Z",
+     "created_at": "2026-10-15T20:05:19Z",
+     "prerelease": false,
+     "draft": false,
+     "assets": [
+      {
+       "name": "VAULT.exe",
+       "size": 41440622,
+       "browser_download_url": "https://github.com/pralle7747-max/VAULT-PassWord-Manager/releases/download/1.1.1.0/VAULT.exe",
+       "digest": "sha256:dff323eb2537a8a7e95778ea19c57265640fcbbcf3786be20e926d7de2821614",
+       "download_count": 7
+      }
+     ]
+    }
+   ],
+   "screenshots": []
+  },
+  {
+   "name": "Bany-AI",
+   "full_name": "pralle7747-max/Bany-AI",
+   "description": null,
+   "html_url": "https://github.com/pralle7747-max/Bany-AI",
+   "homepage": null,
+   "language": null,
+   "topics": [],
+   "stargazers_count": 0,
+   "pushed_at": "2026-10-04T15:17:51Z",
+   "releases": [
+    {
+     "tag_name": "v3.3.3",
+     "name": "v3.3.3",
+     "body": "",
+     "html_url": "https://github.com/pralle7747-max/Bany-AI/releases/tag/v3.3.3",
+     "published_at": "2026-10-04T15:15:12Z",
+     "created_at": "2026-10-04T14:40:36Z",
+     "prerelease": false,
+     "draft": false,
+     "assets": [
+      {
+       "name": "JarvisAgent.exe",
+       "size": 109720370,
+       "browser_download_url": "https://github.com/pralle7747-max/Bany-AI/releases/download/v3.3.3/JarvisAgent.exe",
+       "digest": "sha256:3b537251d7d8bccdac73cc57ce6442a2438535902164e9fa95a0399b10f6df40",
+       "download_count": 19
+      }
+     ]
+    },
+    {
+     "tag_name": "v3.3.2",
+     "name": "v3.3.2",
+     "body": "",
+     "html_url": "https://github.com/pralle7747-max/Bany-AI/releases/tag/v3.3.2",
+     "published_at": "2026-10-04T14:40:05Z",
+     "created_at": "2026-10-04T14:24:31Z",
+     "prerelease": false,
+     "draft": false,
+     "assets": [
+      {
+       "name": "JarvisAgent.exe",
+       "size": 109710078,
+       "browser_download_url": "https://github.com/pralle7747-max/Bany-AI/releases/download/v3.3.2/JarvisAgent.exe",
+       "digest": "sha256:b9f4ffae6d0d8d86ad9695b645c39e6c7ecb5921d2b09fe9dbe441b55685d1d2",
+       "download_count": 3
+      }
+     ]
+    },
+    {
+     "tag_name": "v3.3.1",
+     "name": "v3.3.1",
+     "body": "Neu: Auto-Dimmen (Bildschirmschoner mit Uhr, fast 0 CPU) + scrollbares Einstellungs-Fenster.",
+     "html_url": "https://github.com/pralle7747-max/Bany-AI/releases/tag/v3.3.1",
+     "published_at": "2026-10-04T14:24:15Z",
+     "created_at": "2026-10-03T17:14:28Z",
+     "prerelease": false,
+     "draft": false,
+     "assets": [
+      {
+       "name": "JarvisAgent.exe",
+       "size": 109709737,
+       "browser_download_url": "https://github.com/pralle7747-max/Bany-AI/releases/download/v3.3.1/JarvisAgent.exe",
+       "digest": "sha256:c29fd14b229e52cff133db1adc11c9e528f2be2c1f4d09fc3153df082e5c4c09",
+       "download_count": 1
+      }
+     ]
+    },
+    {
+     "tag_name": "v3.0.6",
+     "name": "v3.0.6",
+     "body": "",
+     "html_url": "https://github.com/pralle7747-max/Bany-AI/releases/tag/v3.0.6",
+     "published_at": "2026-10-03T17:14:51Z",
+     "created_at": "2026-10-03T17:14:28Z",
+     "prerelease": false,
+     "draft": false,
+     "assets": [
+      {
+       "name": "JarvisAgent.exe",
+       "size": 109509659,
+       "browser_download_url": "https://github.com/pralle7747-max/Bany-AI/releases/download/v3.0.6/JarvisAgent.exe",
+       "digest": "sha256:81bfe9353260a767fd48d6ff0e80b9cf5b0a5a468527f2639f59ec9984993091",
+       "download_count": 5
+      }
+     ]
+    },
+    {
+     "tag_name": "v3.0.4",
+     "name": "v3.0.5",
+     "body": "",
+     "html_url": "https://github.com/pralle7747-max/Bany-AI/releases/tag/v3.0.4",
+     "published_at": "2026-10-03T15:55:34Z",
+     "created_at": "2026-10-03T15:48:22Z",
+     "prerelease": false,
+     "draft": false,
+     "assets": [
+      {
+       "name": "JarvisAgent.exe",
+       "size": 109508453,
+       "browser_download_url": "https://github.com/pralle7747-max/Bany-AI/releases/download/v3.0.4/JarvisAgent.exe",
+       "digest": "sha256:63bc37fc5016503344124a8972d0ae30662d0c05abc4f591f6408ec2c5c2c1ec",
+       "download_count": 2
+      }
+     ]
+    },
+    {
+     "tag_name": "v2.9.1",
+     "name": "v2.9.1",
+     "body": "",
+     "html_url": "https://github.com/pralle7747-max/Bany-AI/releases/tag/v2.9.1",
+     "published_at": "2026-09-11T13:47:18Z",
+     "created_at": "2026-09-11T13:40:34Z",
+     "prerelease": false,
+     "draft": false,
+     "assets": [
+      {
+       "name": "Bany-Ai-BETA.exe",
+       "size": 48240535,
+       "browser_download_url": "https://github.com/pralle7747-max/Bany-AI/releases/download/v2.9.1/Bany-Ai-BETA.exe",
+       "digest": "sha256:43c3f100cfd80341f1660bc9fd276e45c1241f9f8ee9a2923416947850654e9a",
+       "download_count": 24
+      }
+     ]
+    },
+    {
+     "tag_name": "KI/AI",
+     "name": "",
+     "body": "ut euch auf das nächste Level eures digitalen Assistenten! Bany AI steht bereit, um euren Alltag extrem zu erleichtern und euer System auf ein neues Level zu heben. Hier ist ein kleiner Vorgeschmack darauf, was euch direkt zum Start erwartet und woran hinter den Kulissen gearbeitet wird:\r\n\r\n🔥 Das erwartet euch direkt zum Start:\r\n\r\n    Intelligenter Chat & Websuche: Stellt mir jede Frage, führt natürliche Gespräche und erhaltet dank integrierter Websuche immer aktuelle Antworten.\r\n\r\n    Sprachausgabe & History-Suche: Lasst euch Antworten einfach vorlesen und durchsucht eure alten Chats im Handumdrehen.\r\n\r\n    Custom Themes & Animationen: Passt das Design mit coolen Styles, eigenen Farben und flüssigen Animationen perfekt an euren Geschmack an.\r\n\r\n    Chats teilen: Exportiert und importiert eure Verläufe ganz leicht, um sie mit euren Freunden zu teilen.\r\n\r\n    Echte System-Features: Automatische Updates, Feedback-Schleife und direkte Bug-Reporting-Tools halten das System immer auf dem neuesten Stand.\r\n\r\n💡 Ein Blick in die Zukunft – Das kommt als Nächstes:\r\n\r\n    Bildgenerierung & Bearbeitung: Erstellt und analysiert Bilder direkt in der App.\r\n\r\n    Zentrale Mediathek: Verwaltet eure Medien an einem zentralen Ort.\r\n\r\n    KI CUT: Freut euch auf ein eigenes Werkzeug für smarten Videoschnitt!\r\n\r\nMacht euch bereit für das Release – Bany AI ist am Start! 🍋✨ \r\n",
+     "html_url": "https://github.com/pralle7747-max/Bany-AI/releases/tag/KI/AI",
+     "published_at": "2026-09-11T00:32:49Z",
+     "created_at": "2026-09-11T00:13:43Z",
+     "prerelease": true,
+     "draft": false,
+     "assets": [
+      {
+       "name": "Bany-Ai-BETA.exe",
+       "size": 48241338,
+       "browser_download_url": "https://github.com/pralle7747-max/Bany-AI/releases/download/KI/AI/Bany-Ai-BETA.exe",
+       "digest": "sha256:f722ec927526c010eb5d85db00e601d7b99259662fd3d1d9e6edcf1f27559dcf",
+       "download_count": 7
+      },
+      {
+       "name": "Bany.AI.BETA.zip",
+       "size": 47751655,
+       "browser_download_url": "https://github.com/pralle7747-max/Bany-AI/releases/download/KI/AI/Bany.AI.BETA.zip",
+       "digest": "sha256:fdc94ec29ab3e3e6c363d222d450bc826b518f7e4ba6df028683aa5188ded813",
+       "download_count": 4
+      },
+      {
+       "name": "READ.ME.txt",
+       "size": 186,
+       "browser_download_url": "https://github.com/pralle7747-max/Bany-AI/releases/download/KI/AI/READ.ME.txt",
+       "digest": "sha256:15d191b6dd197805432c16ad33d39535710cd36d6a7c2ec9d1e3d0513dbc5dd3",
+       "download_count": 2
+      }
+     ]
+    }
+   ],
+   "screenshots": []
+  }
+ ],
+ "store_latest": {
+  "tag_name": "v3.1.2",
+  "name": "AETHER Store 3.1.2 – flüssig ohne Grafikkarte",
+  "body": "## AETHER Store 3.1.2 – flüssig auch ohne Grafikkarte ⚡\n\n- **Intro & Animationen deutlich schneller**: Ohne Grafikkarte gemessen ~57–58 statt ~37 Bilder/s, keine Ruckler mehr\n- **Automatischer Sparmodus**: PCs ohne Grafikkarte (z. B. „Microsoft Basic Render Driver“) werden erkannt, aufwendige Effekte werden dann automatisch reduziert\n- **Neue Einstellung** *Darstellung → Leistung*: Automatisch / Maximal / Sparsam\n- Hintergrund-Aurora, Boot-Logo und Live-Hintergrund brauchen jetzt nur noch einen Bruchteil der Rechenleistung\n- Während des Intros pausiert alles im Hintergrund\n\n**SHA256:** `ba25a79894998727b2cf7c03bf0058a66549bdd67dad49ec916c61bf0f2dc26f`",
+  "html_url": "https://github.com/pralle7747-max/AETHER-Store/releases/tag/v3.1.2",
+  "published_at": "2026-11-26T15:22:33Z",
+  "created_at": "2026-11-25T22:13:09Z",
+  "prerelease": false,
+  "draft": false,
+  "assets": [
+   {
+    "name": "AETHER-Store.exe",
+    "size": 21125101,
+    "browser_download_url": "https://github.com/pralle7747-max/AETHER-Store/releases/download/v3.1.2/AETHER-Store.exe",
+    "digest": "sha256:ba25a79894998727b2cf7c03bf0058a66549bdd67dad49ec916c61bf0f2dc26f",
+    "download_count": 0
+   }
+  ]
+ }
+}
