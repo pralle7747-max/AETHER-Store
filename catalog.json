@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "generated_at": "2026-11-26T15:32:52+00:00",
+ "generated_at": "2026-11-26T15:36:57+00:00",
  "user": "pralle7747-max",
  "repos": [
   {
@@ -305,20 +305,20 @@
   }
  ],
  "store_latest": {
-  "tag_name": "v3.1.2",
-  "name": "AETHER Store 3.1.2 – flüssig ohne Grafikkarte",
-  "body": "## AETHER Store 3.1.2 – flüssig auch ohne Grafikkarte ⚡\n\n- **Intro & Animationen deutlich schneller**: Ohne Grafikkarte gemessen ~57–58 statt ~37 Bilder/s, keine Ruckler mehr\n- **Automatischer Sparmodus**: PCs ohne Grafikkarte (z. B. „Microsoft Basic Render Driver“) werden erkannt, aufwendige Effekte werden dann automatisch reduziert\n- **Neue Einstellung** *Darstellung → Leistung*: Automatisch / Maximal / Sparsam\n- Hintergrund-Aurora, Boot-Logo und Live-Hintergrund brauchen jetzt nur noch einen Bruchteil der Rechenleistung\n- Während des Intros pausiert alles im Hintergrund\n\n**SHA256:** `ba25a79894998727b2cf7c03bf0058a66549bdd67dad49ec916c61bf0f2dc26f`",
-  "html_url": "https://github.com/pralle7747-max/AETHER-Store/releases/tag/v3.1.2",
-  "published_at": "2026-11-26T15:22:33Z",
-  "created_at": "2026-11-25T22:13:09Z",
+  "tag_name": "v3.1.3",
+  "name": "AETHER Store 3.1.3",
+  "body": "## AETHER Store 3.1.3 🛠️\n\n- **Nie wieder „GitHub-Limit erreicht“**: Der Store lädt Apps, Versionen und Updates jetzt aus einem automatisch erzeugten Katalog – schneller und ohne Abruf-Limit\n- Falls doch einmal direkt bei GitHub nachgefragt werden muss und das Limit greift, zeigt die Meldung die genaue Uhrzeit\n- **Fenster startet immer richtig**: passende Größe, zentriert und vollständig auf dem Bildschirm – auch wenn der Store vorher maximiert geschlossen wurde\n- Seitenleiste ohne störende Scrollleiste\n\n**SHA256:** `1469ce969d25f6584eff4c19acc075f52857f8f8a31e85c502cafddef8046319`",
+  "html_url": "https://github.com/pralle7747-max/AETHER-Store/releases/tag/v3.1.3",
+  "published_at": "2026-11-26T15:36:07Z",
+  "created_at": "2026-11-26T15:33:00Z",
   "prerelease": false,
   "draft": false,
   "assets": [
    {
     "name": "AETHER-Store.exe",
-    "size": 21125101,
-    "browser_download_url": "https://github.com/pralle7747-max/AETHER-Store/releases/download/v3.1.2/AETHER-Store.exe",
-    "digest": "sha256:ba25a79894998727b2cf7c03bf0058a66549bdd67dad49ec916c61bf0f2dc26f",
+    "size": 21129680,
+    "browser_download_url": "https://github.com/pralle7747-max/AETHER-Store/releases/download/v3.1.3/AETHER-Store.exe",
+    "digest": "sha256:1469ce969d25f6584eff4c19acc075f52857f8f8a31e85c502cafddef8046319",
     "download_count": 0
    }
   ]
