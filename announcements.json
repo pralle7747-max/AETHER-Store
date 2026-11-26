@@ -1,48 +1,42 @@
 {
-  "_hinweis": "Ankündigungen für den Aether Launcher. 'coming_soon' erscheint als 'Demnächst'-Karte, bis ein echtes Release mit derselben id existiert (id = Repo-Name in Kleinbuchstaben). 'news' erscheint unter News.",
+  "_hinweis": "Ankündigungen für den Aether Launcher. 'coming_soon' erscheint als 'Demnächst'-Karte, bis ein echtes Release mit derselben id existiert (id = Repo-Name in Kleinbuchstaben). 'news' erscheint unter News. 'image'/'trailer' müssen auf raw.githubusercontent.com/pralle7747-max/ liegen.",
   "coming_soon": [
     {
-      "id": "aether-replay",
-      "name": "Aether Replay",
-      "tab": "aether",
-      "icon_emoji": "🎬",
-      "topics": [
-        "gaming"
-      ],
-      "beschreibung": "Gaming-Clips per Tastendruck: die letzten 30 Sekunden speichern, schneiden und im Hochformat für TikTok, Shorts & Reels exportieren.",
+      "id": "aether-last-signal",
+      "name": "Aether: Last Signal",
+      "tab": "spiele",
+      "icon_emoji": "📡",
+      "topics": ["game", "coop"],
+      "beschreibung": "Koop-Survival-Roadtrip in Pixel-Art: Wählt eure Route über eine zufällige Karte, erkundet tagsüber, verteidigt euch nachts – und sendet am alten Funkturm das letzte Signal.",
+      "story": "„…hier Forschungsstation 7 … wir haben gesendet … niemand ist gekommen …“ – Ihr seid nicht die Ersten.",
       "highlights": [
-        "Rückblick-Aufnahme",
-        "Editor mit Musik & Text",
-        "TikTok-Hochformat"
+        "Roadtrip über eine zufällige Karte mit 4 Gebieten",
+        "Tagsüber erkunden, nachts bauen & verteidigen",
+        "Mehrere Bosse am Funkturm",
+        "Rollen freischalten: Techniker, Späher und mehr"
       ],
-      "eta": "Bald"
-    },
-    {
-      "id": "aether-rig",
-      "name": "Aether Rig",
-      "tab": "aether",
-      "icon_emoji": "🖥️",
-      "topics": [
-        "gaming",
-        "system"
-      ],
-      "beschreibung": "Dein Gaming-PC-Cockpit: Hardware & Temperaturen, Treiber-Check, alle Spiele von Steam, Epic & Co. an einem Ort, „Läuft das bei mir?“ und Boost-Modus.",
-      "highlights": [
-        "Alle Spiele an einem Ort",
-        "Läuft das bei mir?",
-        "Boost & Aufräumen"
-      ],
-      "eta": "Bald"
+      "badges": ["Koop · 1–2 Spieler", "Sofa-Koop", "Online-Koop kommt bald"],
+      "image": "https://raw.githubusercontent.com/pralle7747-max/AETHER-Store/main/media/last-signal/trailer.jpg",
+      "trailer": "https://raw.githubusercontent.com/pralle7747-max/AETHER-Store/main/media/last-signal/teaser.mp4",
+      "eta": "In Entwicklung"
     }
   ],
   "news": [
     {
       "kind": "news",
-      "emoji": "🚀",
+      "emoji": "📡",
       "pinned": true,
-      "ts": 1795708561263,
-      "title": "Bald: Aether Replay & Aether Rig",
-      "body": "Zwei neue Apps sind in Arbeit – Clips für deine besten Gaming-Momente und ein Cockpit für deinen PC. Klick auf „Benachrichtigen“, dann sagen wir dir Bescheid, sobald sie da sind!"
+      "ts": 1795722000000,
+      "title": "Erster Blick: Aether: Last Signal",
+      "body": "Unser erstes Spiel! Ein Koop-Survival-Roadtrip für 1–2 Spieler. Den Teaser findest du im neuen Bereich „Spiele“. Online-Koop kommt bald."
+    },
+    {
+      "kind": "news",
+      "emoji": "🎉",
+      "pinned": false,
+      "ts": 1795721000000,
+      "title": "Jetzt da: Aether Replay & Aether Rig",
+      "body": "Clips für deine besten Gaming-Momente (Beta) und das Cockpit für deinen PC – beide jetzt im Launcher."
     },
     {
       "kind": "news",
