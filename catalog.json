@@ -1,24 +1,77 @@
 {
  "schema": 1,
- "generated_at": "2026-11-26T15:36:57+00:00",
+ "coming_soon": [
+  {
+   "id": "aether-replay",
+   "name": "Aether Replay",
+   "tab": "aether",
+   "icon_emoji": "🎬",
+   "topics": [
+    "gaming"
+   ],
+   "beschreibung": "Gaming-Clips per Tastendruck: die letzten 30 Sekunden speichern, schneiden und im Hochformat für TikTok, Shorts & Reels exportieren.",
+   "highlights": [
+    "Rückblick-Aufnahme",
+    "Editor mit Musik & Text",
+    "TikTok-Hochformat"
+   ],
+   "eta": "Bald"
+  },
+  {
+   "id": "aether-rig",
+   "name": "Aether Rig",
+   "tab": "aether",
+   "icon_emoji": "🖥️",
+   "topics": [
+    "gaming",
+    "system"
+   ],
+   "beschreibung": "Dein Gaming-PC-Cockpit: Hardware & Temperaturen, Treiber-Check, alle Spiele von Steam, Epic & Co. an einem Ort, „Läuft das bei mir?“ und Boost-Modus.",
+   "highlights": [
+    "Alle Spiele an einem Ort",
+    "Läuft das bei mir?",
+    "Boost & Aufräumen"
+   ],
+   "eta": "Bald"
+  }
+ ],
+ "news": [
+  {
+   "kind": "news",
+   "emoji": "🚀",
+   "pinned": true,
+   "ts": 1795708561263,
+   "title": "Bald: Aether Replay & Aether Rig",
+   "body": "Zwei neue Apps sind in Arbeit – Clips für deine besten Gaming-Momente und ein Cockpit für deinen PC. Klick auf „Benachrichtigen“, dann sagen wir dir Bescheid, sobald sie da sind!"
+  },
+  {
+   "kind": "news",
+   "emoji": "✨",
+   "pinned": false,
+   "ts": 1795708560263,
+   "title": "Aus AETHER Store wird Aether Launcher",
+   "body": "Neuer Name, neues Overlay: Mit Alt + Leertaste hast du Apps, Freunde, KI und Musik jetzt über jedem Spiel."
+  }
+ ],
+ "generated_at": "2026-11-26T15:56:36+00:00",
  "user": "pralle7747-max",
  "repos": [
   {
-   "name": "Samsung-cam-2.0",
-   "full_name": "pralle7747-max/Samsung-cam-2.0",
+   "name": "AETHER-Navigation",
+   "full_name": "pralle7747-max/AETHER-Navigation",
    "description": null,
-   "html_url": "https://github.com/pralle7747-max/Samsung-cam-2.0",
+   "html_url": "https://github.com/pralle7747-max/AETHER-Navigation",
    "homepage": null,
    "language": "Kotlin",
    "topics": [],
    "stargazers_count": 0,
-   "pushed_at": "2026-11-26T15:29:24Z",
+   "pushed_at": "2026-11-26T15:42:43Z",
    "releases": [
     {
      "tag_name": "v26",
      "name": "AETHER Navigation 26",
      "body": "AETHER Navigation für Windows (Version 26).\n\n- Navigation für Auto, Fahrrad, zu Fuß und Bahn\n- AETHER-Konto: Favoriten und Einstellungen auf allen Geräten synchron\n- Handy-App (Android): AETHER-Handy-v53.apk",
-     "html_url": "https://github.com/pralle7747-max/Samsung-cam-2.0/releases/tag/v26",
+     "html_url": "https://github.com/pralle7747-max/AETHER-Navigation/releases/tag/v26",
      "published_at": "2026-11-26T15:29:24Z",
      "created_at": "2026-11-26T15:29:04Z",
      "prerelease": false,
@@ -27,16 +80,16 @@
       {
        "name": "AETHER-Handy-v53.apk",
        "size": 5939379,
-       "browser_download_url": "https://github.com/pralle7747-max/Samsung-cam-2.0/releases/download/v26/AETHER-Handy-v53.apk",
+       "browser_download_url": "https://github.com/pralle7747-max/AETHER-Navigation/releases/download/v26/AETHER-Handy-v53.apk",
        "digest": "sha256:b44f8dc54dd94967ab26a18b3d1fd1c3dea8c5ca96c0517beae19c67d2d0cbdf",
-       "download_count": 0
+       "download_count": 1
       },
       {
        "name": "AETHER-v26.exe",
        "size": 81500207,
-       "browser_download_url": "https://github.com/pralle7747-max/Samsung-cam-2.0/releases/download/v26/AETHER-v26.exe",
+       "browser_download_url": "https://github.com/pralle7747-max/AETHER-Navigation/releases/download/v26/AETHER-v26.exe",
        "digest": "sha256:f649dcf139919a561200d9e6e506764f78c322b189bdd7b869cad10bd793fcef",
-       "download_count": 0
+       "download_count": 1
       }
      ]
     }
@@ -69,7 +122,7 @@
        "size": 20523546,
        "browser_download_url": "https://github.com/pralle7747-max/AETHER-Minecraft-Markt/releases/download/RELESE/Minecraft.Market.exe",
        "digest": "sha256:851c40aec7efeece1cfea896e04a14e4a9519f452482945e9c60d890c284dc3d",
-       "download_count": 5
+       "download_count": 6
       }
      ]
     }
@@ -319,7 +372,7 @@
     "size": 21129680,
     "browser_download_url": "https://github.com/pralle7747-max/AETHER-Store/releases/download/v3.1.3/AETHER-Store.exe",
     "digest": "sha256:1469ce969d25f6584eff4c19acc075f52857f8f8a31e85c502cafddef8046319",
-    "download_count": 0
+    "download_count": 2
    }
   ]
  }
