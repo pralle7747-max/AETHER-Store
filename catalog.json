@@ -39,6 +39,14 @@
   },
   {
    "kind": "news",
+   "emoji": "🍎",
+   "pinned": false,
+   "ts": 1795731000000,
+   "title": "Jetzt auch für den Mac",
+   "body": "Der Aether Launcher läuft jetzt auch auf dem Mac – für Apple-Chip (ab macOS 11) und Intel (ab macOS 10.15 Catalina). Download auf GitHub unter AETHER-Store → Releases."
+  },
+  {
+   "kind": "news",
    "emoji": "📡",
    "pinned": false,
    "ts": 1795722000000,
@@ -62,7 +70,7 @@
    "body": "Neuer Name, neues Overlay: Mit Alt + Leertaste hast du Apps, Freunde, KI und Musik jetzt über jedem Spiel."
   }
  ],
- "generated_at": "2026-11-26T20:25:53+00:00",
+ "generated_at": "2026-11-26T20:26:41+00:00",
  "user": "pralle7747-max",
  "repos": [
   {
