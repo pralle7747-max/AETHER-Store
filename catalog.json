@@ -2,47 +2,48 @@
  "schema": 1,
  "coming_soon": [
   {
-   "id": "aether-replay",
-   "name": "Aether Replay",
-   "tab": "aether",
-   "icon_emoji": "🎬",
+   "id": "aether-last-signal",
+   "name": "Aether: Last Signal",
+   "tab": "spiele",
+   "icon_emoji": "📡",
    "topics": [
-    "gaming"
+    "game",
+    "coop"
    ],
-   "beschreibung": "Gaming-Clips per Tastendruck: die letzten 30 Sekunden speichern, schneiden und im Hochformat für TikTok, Shorts & Reels exportieren.",
+   "beschreibung": "Koop-Survival-Roadtrip in Pixel-Art: Wählt eure Route über eine zufällige Karte, erkundet tagsüber, verteidigt euch nachts – und sendet am alten Funkturm das letzte Signal.",
+   "story": "„…hier Forschungsstation 7 … wir haben gesendet … niemand ist gekommen …“ – Ihr seid nicht die Ersten.",
    "highlights": [
-    "Rückblick-Aufnahme",
-    "Editor mit Musik & Text",
-    "TikTok-Hochformat"
+    "Roadtrip über eine zufällige Karte mit 4 Gebieten",
+    "Tagsüber erkunden, nachts bauen & verteidigen",
+    "Mehrere Bosse am Funkturm",
+    "Rollen freischalten: Techniker, Späher und mehr"
    ],
-   "eta": "Bald"
-  },
-  {
-   "id": "aether-rig",
-   "name": "Aether Rig",
-   "tab": "aether",
-   "icon_emoji": "🖥️",
-   "topics": [
-    "gaming",
-    "system"
+   "badges": [
+    "Koop · 1–2 Spieler",
+    "Sofa-Koop",
+    "Online-Koop kommt bald"
    ],
-   "beschreibung": "Dein Gaming-PC-Cockpit: Hardware & Temperaturen, Treiber-Check, alle Spiele von Steam, Epic & Co. an einem Ort, „Läuft das bei mir?“ und Boost-Modus.",
-   "highlights": [
-    "Alle Spiele an einem Ort",
-    "Läuft das bei mir?",
-    "Boost & Aufräumen"
-   ],
-   "eta": "Bald"
+   "image": "https://raw.githubusercontent.com/pralle7747-max/AETHER-Store/main/media/last-signal/trailer.jpg",
+   "trailer": "https://raw.githubusercontent.com/pralle7747-max/AETHER-Store/main/media/last-signal/teaser.mp4",
+   "eta": "In Entwicklung"
   }
  ],
  "news": [
   {
    "kind": "news",
-   "emoji": "🚀",
+   "emoji": "📡",
    "pinned": true,
-   "ts": 1795708561263,
-   "title": "Bald: Aether Replay & Aether Rig",
-   "body": "Zwei neue Apps sind in Arbeit – Clips für deine besten Gaming-Momente und ein Cockpit für deinen PC. Klick auf „Benachrichtigen“, dann sagen wir dir Bescheid, sobald sie da sind!"
+   "ts": 1795722000000,
+   "title": "Erster Blick: Aether: Last Signal",
+   "body": "Unser erstes Spiel! Ein Koop-Survival-Roadtrip für 1–2 Spieler. Den Teaser findest du im neuen Bereich „Spiele“. Online-Koop kommt bald."
+  },
+  {
+   "kind": "news",
+   "emoji": "🎉",
+   "pinned": false,
+   "ts": 1795721000000,
+   "title": "Jetzt da: Aether Replay & Aether Rig",
+   "body": "Clips für deine besten Gaming-Momente (Beta) und das Cockpit für deinen PC – beide jetzt im Launcher."
   },
   {
    "kind": "news",
@@ -53,7 +54,7 @@
    "body": "Neuer Name, neues Overlay: Mit Alt + Leertaste hast du Apps, Freunde, KI und Musik jetzt über jedem Spiel."
   }
  ],
- "generated_at": "2026-11-26T17:53:35+00:00",
+ "generated_at": "2026-11-26T18:25:29+00:00",
  "user": "pralle7747-max",
  "repos": [
   {
@@ -89,7 +90,7 @@
        "size": 25654300,
        "browser_download_url": "https://github.com/pralle7747-max/AETHER-Replay/releases/download/v1.0.0/AETHER-Replay.exe",
        "digest": "sha256:7e74e58af3d6b29fe1f8b27de7bd3226b6f023ebae59f80983033aa1b12b4b11",
-       "download_count": 0
+       "download_count": 1
       }
      ]
     }
