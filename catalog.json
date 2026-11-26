@@ -53,7 +53,7 @@
    "body": "Neuer Name, neues Overlay: Mit Alt + Leertaste hast du Apps, Freunde, KI und Musik jetzt über jedem Spiel."
   }
  ],
- "generated_at": "2026-11-26T15:56:36+00:00",
+ "generated_at": "2026-11-26T16:06:36+00:00",
  "user": "pralle7747-max",
  "repos": [
   {
@@ -89,7 +89,7 @@
        "size": 81500207,
        "browser_download_url": "https://github.com/pralle7747-max/AETHER-Navigation/releases/download/v26/AETHER-v26.exe",
        "digest": "sha256:f649dcf139919a561200d9e6e506764f78c322b189bdd7b869cad10bd793fcef",
-       "download_count": 1
+       "download_count": 2
       }
      ]
     }
@@ -358,21 +358,21 @@
   }
  ],
  "store_latest": {
-  "tag_name": "v3.1.3",
-  "name": "AETHER Store 3.1.3",
-  "body": "## AETHER Store 3.1.3 🛠️\n\n- **Nie wieder „GitHub-Limit erreicht“**: Der Store lädt Apps, Versionen und Updates jetzt aus einem automatisch erzeugten Katalog – schneller und ohne Abruf-Limit\n- Falls doch einmal direkt bei GitHub nachgefragt werden muss und das Limit greift, zeigt die Meldung die genaue Uhrzeit\n- **Fenster startet immer richtig**: passende Größe, zentriert und vollständig auf dem Bildschirm – auch wenn der Store vorher maximiert geschlossen wurde\n- Seitenleiste ohne störende Scrollleiste\n\n**SHA256:** `1469ce969d25f6584eff4c19acc075f52857f8f8a31e85c502cafddef8046319`",
-  "html_url": "https://github.com/pralle7747-max/AETHER-Store/releases/tag/v3.1.3",
-  "published_at": "2026-11-26T15:36:07Z",
-  "created_at": "2026-11-26T15:33:00Z",
+  "tag_name": "v4.0.0",
+  "name": "Aether Launcher 4.0",
+  "body": "## 🎮 Aether Launcher 4.0 – aus AETHER Store wird Aether Launcher\n\n**Aether Overlay** – drück **Alt + Leertaste**, egal wo du bist:\n- Apps starten (mit Suche), Freunde online sehen und **„Komm zocken“-Einladungen** schicken\n- Musik & Lautstärke steuern, **Clip speichern** (mit Aether Replay), CPU/RAM/Akku im Blick\n- Kurz die **Aether KI** fragen\n\n**Außerdem neu**\n- 📌 **Taskleisten-Schnellstart**: Rechtsklick aufs Symbol → zuletzt gespielte Apps starten\n- 🖼️ **Eigene Cover** für App-Kacheln & optionale **Sounds**\n- 🪪 **Profil-Karte** als Bild für Insta, Discord & Co.\n- 🌙 **Download-Planer**: später laden, Updates nachts, Downloads pausieren\n- ✨ **Demnächst**: Aether Replay & Aether Rig – jetzt auf „Benachrichtigen“ klicken\n- ⚡ Downloads so schnell wie deine Leitung\n\nDeine Einstellungen, dein Konto und deine Apps bleiben erhalten.\n\n**SHA256:** `47eb6205c17343203384c1887793f3543c86120f31680a48ac1a204f3eb71a2f`",
+  "html_url": "https://github.com/pralle7747-max/AETHER-Store/releases/tag/v4.0.0",
+  "published_at": "2026-11-26T16:06:23Z",
+  "created_at": "2026-11-26T15:56:36Z",
   "prerelease": false,
   "draft": false,
   "assets": [
    {
-    "name": "AETHER-Store.exe",
-    "size": 21129680,
-    "browser_download_url": "https://github.com/pralle7747-max/AETHER-Store/releases/download/v3.1.3/AETHER-Store.exe",
-    "digest": "sha256:1469ce969d25f6584eff4c19acc075f52857f8f8a31e85c502cafddef8046319",
-    "download_count": 2
+    "name": "Aether-Launcher.exe",
+    "size": 21442380,
+    "browser_download_url": "https://github.com/pralle7747-max/AETHER-Store/releases/download/v4.0.0/Aether-Launcher.exe",
+    "digest": "sha256:47eb6205c17343203384c1887793f3543c86120f31680a48ac1a204f3eb71a2f",
+    "download_count": 0
    }
   ]
  }
