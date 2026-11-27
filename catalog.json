@@ -92,7 +92,7 @@
    "body": "Neuer Name, neues Overlay: Mit Alt + Leertaste hast du Apps, Freunde, KI und Musik jetzt über jedem Spiel."
   }
  ],
- "generated_at": "2026-11-27T11:45:42+00:00",
+ "generated_at": "2026-11-27T11:50:25+00:00",
  "user": "pralle7747-max",
  "repos": [
   {
@@ -552,49 +552,49 @@
   }
  ],
  "store_latest": {
-  "tag_name": "v4.4.2",
-  "name": "Aether Launcher 4.4.2 – Beta-Spiele nur für Beta-Tester",
-  "body": "## Aether Launcher 4.4.2 – Beta-Spiele nur für Beta-Tester 🧪\n\n- Apps und Spiele, die es bisher nur als Vorab-Version gibt, können jetzt **nur freigegebene Beta-Tester** herunterladen – auf Windows und Mac.\n- Alle anderen sehen weiter die „Demnächst“-Karte mit Trailern und können Beta-Zugang anfragen.\n- Beta-Apps tragen das Abzeichen „🧪 Beta“.\n\n**Downloads**\n- 🪟 Windows: `Aether-Launcher.exe`\n- 🍎 Mac mit Apple-Chip (ab macOS 11): `Aether-Launcher-mac-arm64.dmg`\n- 🍎 Mac mit Intel (ab macOS 10.15): `Aether-Launcher-mac-intel.dmg`\n",
-  "html_url": "https://github.com/pralle7747-max/AETHER-Store/releases/tag/v4.4.2",
-  "published_at": "2026-11-26T22:15:08Z",
-  "created_at": "2026-11-26T22:04:58Z",
+  "tag_name": "v4.5.0",
+  "name": "Aether Launcher 4.5 – Beta-Spiele nur über den Launcher",
+  "body": "## Aether Launcher 4.5 – Beta-Spiele nur über den Launcher 🧪\n\n- **Beta-Spiele gibt es nur noch über den Launcher** – für freigegebene Beta-Tester, auf Windows und Mac.\n- Für Beta-Tester bleibt die große Spiele-Karte mit allen Trailern – mit „Installieren“ bzw. „Spielen“ statt „Benachrichtigen“.\n- Beta-Spiele können ein Spielzeit-Limit haben – die gespielte Zeit siehst du direkt auf der Karte.\n\n**Downloads**\n- 🪟 Windows: `Aether-Launcher.exe`\n- 🍎 Mac mit Apple-Chip (ab macOS 11): `Aether-Launcher-mac-arm64.dmg`\n- 🍎 Mac mit Intel (ab macOS 10.15): `Aether-Launcher-mac-intel.dmg`\n",
+  "html_url": "https://github.com/pralle7747-max/AETHER-Store/releases/tag/v4.5.0",
+  "published_at": "2026-11-27T11:50:14Z",
+  "created_at": "2026-11-27T11:45:42Z",
   "prerelease": false,
   "draft": false,
   "assets": [
    {
     "name": "Aether-Launcher-mac-arm64.dmg",
-    "size": 20687926,
-    "browser_download_url": "https://github.com/pralle7747-max/AETHER-Store/releases/download/v4.4.2/Aether-Launcher-mac-arm64.dmg",
-    "digest": "sha256:01b640143e32ea21337ef5696f0e20d9621224d0164514e0d2a4c567bf24bfe1",
-    "download_count": 1
+    "size": 20693231,
+    "browser_download_url": "https://github.com/pralle7747-max/AETHER-Store/releases/download/v4.5.0/Aether-Launcher-mac-arm64.dmg",
+    "digest": "sha256:bbfea04befc840388b849b17399927d2aae2e97244982d2b2efa8e0c0620cbae",
+    "download_count": 0
    },
    {
     "name": "Aether-Launcher-mac-arm64.zip",
-    "size": 19006162,
-    "browser_download_url": "https://github.com/pralle7747-max/AETHER-Store/releases/download/v4.4.2/Aether-Launcher-mac-arm64.zip",
-    "digest": "sha256:05c8a0ae81a1ac9cfdaa9569f113ed141f99fffa360feffaa5b9cd9e40c73ce3",
-    "download_count": 1
+    "size": 19016214,
+    "browser_download_url": "https://github.com/pralle7747-max/AETHER-Store/releases/download/v4.5.0/Aether-Launcher-mac-arm64.zip",
+    "digest": "sha256:12f16398ac4fa8850448f94c4de109b493b3b34e6c9893f545e73b912c32dbd3",
+    "download_count": 0
    },
    {
     "name": "Aether-Launcher-mac-intel.dmg",
-    "size": 22351788,
-    "browser_download_url": "https://github.com/pralle7747-max/AETHER-Store/releases/download/v4.4.2/Aether-Launcher-mac-intel.dmg",
-    "digest": "sha256:d50c6174d21f6c58eddaae3e4b0bc99fd440330161773f5a3e0d9d5d87539cda",
-    "download_count": 1
+    "size": 21565670,
+    "browser_download_url": "https://github.com/pralle7747-max/AETHER-Store/releases/download/v4.5.0/Aether-Launcher-mac-intel.dmg",
+    "digest": "sha256:7aae926f79a87c37c8d9bad9fe16e72520f85cbfa7c1cd6c9c637d19905a4cb1",
+    "download_count": 0
    },
    {
     "name": "Aether-Launcher-mac-intel.zip",
-    "size": 19868074,
-    "browser_download_url": "https://github.com/pralle7747-max/AETHER-Store/releases/download/v4.4.2/Aether-Launcher-mac-intel.zip",
-    "digest": "sha256:5fe6cd65d4e57a5ec0e1e3aaa68747a95541f8bfb9f72549fdf9b6c51b62ee9d",
-    "download_count": 1
+    "size": 19878509,
+    "browser_download_url": "https://github.com/pralle7747-max/AETHER-Store/releases/download/v4.5.0/Aether-Launcher-mac-intel.zip",
+    "digest": "sha256:cc1290be550d3dcc48ff4823f895151909f77d9d089ba09042e9dd3751dd1a0a",
+    "download_count": 0
    },
    {
     "name": "Aether-Launcher.exe",
-    "size": 21572501,
-    "browser_download_url": "https://github.com/pralle7747-max/AETHER-Store/releases/download/v4.4.2/Aether-Launcher.exe",
-    "digest": "sha256:408f18ba82b5ef18713b589133ee786a3a64c58ca53aa225d927985f3bce6e53",
-    "download_count": 3
+    "size": 21584403,
+    "browser_download_url": "https://github.com/pralle7747-max/AETHER-Store/releases/download/v4.5.0/Aether-Launcher.exe",
+    "digest": "sha256:1ce1434c86ece577b33bcaa1bcdc36993d04af035a10acbd0befad5ea71e4b48",
+    "download_count": 0
    }
   ]
  }
