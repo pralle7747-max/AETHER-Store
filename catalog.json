@@ -92,7 +92,7 @@
    "body": "Neuer Name, neues Overlay: Mit Alt + Leertaste hast du Apps, Freunde, KI und Musik jetzt über jedem Spiel."
   }
  ],
- "generated_at": "2026-11-27T13:24:54+00:00",
+ "generated_at": "2026-11-27T21:55:45+00:00",
  "user": "pralle7747-max",
  "repos": [
   {
@@ -124,11 +124,25 @@
      "draft": false,
      "assets": [
       {
+       "name": "Aether-Replay-mac-arm64.zip",
+       "size": 31524150,
+       "browser_download_url": "https://github.com/pralle7747-max/AETHER-Replay/releases/download/v1.0.0/Aether-Replay-mac-arm64.zip",
+       "digest": "sha256:94d88efefac889a1d4110463ea8cdcb43ddb616c1c36fbdb050ebe0419d49c55",
+       "download_count": 0
+      },
+      {
+       "name": "Aether-Replay-mac-intel.zip",
+       "size": 33762492,
+       "browser_download_url": "https://github.com/pralle7747-max/AETHER-Replay/releases/download/v1.0.0/Aether-Replay-mac-intel.zip",
+       "digest": "sha256:1bd3ceed19f351fcdb9e20e3e253e4829f7751ab1787e6fbb8edf0addb6871dd",
+       "download_count": 0
+      },
+      {
        "name": "AETHER-Replay.exe",
        "size": 25654300,
        "browser_download_url": "https://github.com/pralle7747-max/AETHER-Replay/releases/download/v1.0.0/AETHER-Replay.exe",
        "digest": "sha256:7e74e58af3d6b29fe1f8b27de7bd3226b6f023ebae59f80983033aa1b12b4b11",
-       "download_count": 1
+       "download_count": 2
       }
      ]
     }
@@ -198,7 +212,7 @@
        "size": 18394654,
        "browser_download_url": "https://github.com/pralle7747-max/AETHER-Rig/releases/download/v1.0.0/Aether-Rig-mac-arm64.zip",
        "digest": "sha256:0f5c2e3c1a4cc4efac031d51ae1d580135b4e7eef0ca9911d3db41810172e5f4",
-       "download_count": 0
+       "download_count": 1
       },
       {
        "name": "Aether-Rig-mac-intel.zip",
@@ -212,7 +226,7 @@
        "size": 24318770,
        "browser_download_url": "https://github.com/pralle7747-max/AETHER-Rig/releases/download/v1.0.0/AETHER-Rig.exe",
        "digest": "sha256:698434598bdadda9c8949847c3f18c0192a81bbb512516c5fcf1de8e62629284",
-       "download_count": 2
+       "download_count": 3
       }
      ]
     }
@@ -566,35 +580,35 @@
     "size": 20614101,
     "browser_download_url": "https://github.com/pralle7747-max/AETHER-Store/releases/download/v4.5.2/Aether-Launcher-mac-arm64.dmg",
     "digest": "sha256:c4b00d1524cab483348b08c818e33f4936ae208fdf6be3a0059df1044bbff36c",
-    "download_count": 0
+    "download_count": 1
    },
    {
     "name": "Aether-Launcher-mac-arm64.zip",
     "size": 19030783,
     "browser_download_url": "https://github.com/pralle7747-max/AETHER-Store/releases/download/v4.5.2/Aether-Launcher-mac-arm64.zip",
     "digest": "sha256:90c5dda38ef99971264db75c919f6344272a66eac89e9ccb398cb728f170a3bf",
-    "download_count": 0
+    "download_count": 2
    },
    {
     "name": "Aether-Launcher-mac-intel.dmg",
     "size": 22627310,
     "browser_download_url": "https://github.com/pralle7747-max/AETHER-Store/releases/download/v4.5.2/Aether-Launcher-mac-intel.dmg",
     "digest": "sha256:e0e8ecd6040ee1b7e296d26187ba347bf2b5fb7e24ae3b4bfcf6a5165f18db96",
-    "download_count": 0
+    "download_count": 1
    },
    {
     "name": "Aether-Launcher-mac-intel.zip",
     "size": 19893331,
     "browser_download_url": "https://github.com/pralle7747-max/AETHER-Store/releases/download/v4.5.2/Aether-Launcher-mac-intel.zip",
     "digest": "sha256:8e03fea1732ae10e44faa78b6511e13d940e36a3499c5d5faa3a3a73381c2332",
-    "download_count": 0
+    "download_count": 1
    },
    {
     "name": "Aether-Launcher.exe",
     "size": 21595929,
     "browser_download_url": "https://github.com/pralle7747-max/AETHER-Store/releases/download/v4.5.2/Aether-Launcher.exe",
     "digest": "sha256:7cd949a8203b634434186c824ca854e025cb256121306c7adb2dd60f3c916784",
-    "download_count": 0
+    "download_count": 2
    }
   ]
  }
