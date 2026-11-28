@@ -92,7 +92,7 @@
    "body": "Neuer Name, neues Overlay: Mit Alt + Leertaste hast du Apps, Freunde, KI und Musik jetzt über jedem Spiel."
   }
  ],
- "generated_at": "2026-11-28T16:29:06+00:00",
+ "generated_at": "2026-11-28T17:18:09+00:00",
  "user": "AetherSoftwareInc",
  "repos": [
   {
@@ -111,8 +111,41 @@
     "windows"
    ],
    "stargazers_count": 0,
-   "pushed_at": "2026-11-28T16:26:26Z",
+   "pushed_at": "2026-11-28T17:06:08Z",
    "releases": [
+    {
+     "tag_name": "v1.1.0",
+     "name": "AETHER Focus 1.1.0",
+     "body": "## AETHER Focus 1.1.0 – Spurhalten, Tempomat & jede Kamera\n\n- 🛣️ **Spurhalte-Assistent:** hält dich zwischen den weißen/gelben Fahrbahnstreifen\n- 🚗 **Tempomat:** hält dein Wunschtempo – Focus liest dafür den Tacho. **Bild↑ / Bild↓** = ±10 km/h. Beim Tempomat lenkst du selbst (A/D stoppt ihn nicht).\n- 🧭 **Navi-Route** wie bisher, das Wunschtempo gilt dort als Höchsttempo\n- 🎥 **Jede Kamera:** Verfolger, Motorhaube oder Cockpit (Einstellungen → Kamera)\n- 🟢 Grüne Route (Kolonne/Konvoi) auf der Minimap wird erkannt\n- 🌙 Nachts deutlich weniger Fehlalarme (blauer Himmel, Lichter)\n- Alte Kalibrierungen überschreiben die neuen Farb-Einstellungen nicht mehr\n",
+     "html_url": "https://github.com/AetherSoftwareInc/AETHER-Focus/releases/tag/v1.1.0",
+     "published_at": "2026-11-28T17:06:09Z",
+     "created_at": "2026-11-28T16:26:24Z",
+     "prerelease": false,
+     "draft": false,
+     "assets": [
+      {
+       "name": "Aether-Focus-mac-arm64.zip",
+       "size": 28541461,
+       "browser_download_url": "https://github.com/AetherSoftwareInc/AETHER-Focus/releases/download/v1.1.0/Aether-Focus-mac-arm64.zip",
+       "digest": "sha256:1ee8a9bac0d07090c8ca3cbfd2eac547e0dc089495aa53b9f97a112a01034a96",
+       "download_count": 0
+      },
+      {
+       "name": "Aether-Focus-mac-intel.zip",
+       "size": 33518926,
+       "browser_download_url": "https://github.com/AetherSoftwareInc/AETHER-Focus/releases/download/v1.1.0/Aether-Focus-mac-intel.zip",
+       "digest": "sha256:5d9187719d5f85f120e656f7e1c025b36014bc7ccaf185203ecc0721b5d633d3",
+       "download_count": 0
+      },
+      {
+       "name": "AETHER-Focus.exe",
+       "size": 33397339,
+       "browser_download_url": "https://github.com/AetherSoftwareInc/AETHER-Focus/releases/download/v1.1.0/AETHER-Focus.exe",
+       "digest": "sha256:6e2e9c7e43333faa76449240b215b126962bc36036f8bdc36abb6352a4c65e76",
+       "download_count": 0
+      }
+     ]
+    },
     {
      "tag_name": "v1.0.1",
      "name": "AETHER Focus 1.0.1",
@@ -128,21 +161,21 @@
        "size": 28519290,
        "browser_download_url": "https://github.com/AetherSoftwareInc/AETHER-Focus/releases/download/v1.0.1/Aether-Focus-mac-arm64.zip",
        "digest": "sha256:0698fb680b78f7dab64f68bd9a0d34c7225fcbd79358d24879d9e185ac93a8da",
-       "download_count": 0
+       "download_count": 2
       },
       {
        "name": "Aether-Focus-mac-intel.zip",
        "size": 33495989,
        "browser_download_url": "https://github.com/AetherSoftwareInc/AETHER-Focus/releases/download/v1.0.1/Aether-Focus-mac-intel.zip",
        "digest": "sha256:5795bec827e436bb03afcceff3a3e50e9221da7c304d522c8ff6484c63dcc5df",
-       "download_count": 0
+       "download_count": 1
       },
       {
        "name": "AETHER-Focus.exe",
        "size": 33376141,
        "browser_download_url": "https://github.com/AetherSoftwareInc/AETHER-Focus/releases/download/v1.0.1/AETHER-Focus.exe",
        "digest": "sha256:7d526a5108435b0dcb3f7c452a4c7d6dc2aba56f40810b4585ceedb1e6b6502b",
-       "download_count": 0
+       "download_count": 2
       }
      ]
     },
@@ -161,21 +194,21 @@
        "size": 28688058,
        "browser_download_url": "https://github.com/AetherSoftwareInc/AETHER-Focus/releases/download/v1.0.0/Aether-Focus-mac-arm64.zip",
        "digest": "sha256:94a7dc5039c651357a97169749c8235eec2f826b954ca78265630d247eec5692",
-       "download_count": 2
+       "download_count": 3
       },
       {
        "name": "Aether-Focus-mac-intel.zip",
        "size": 33491489,
        "browser_download_url": "https://github.com/AetherSoftwareInc/AETHER-Focus/releases/download/v1.0.0/Aether-Focus-mac-intel.zip",
        "digest": "sha256:c40aa81fdb62bfa91fe9579d19c74cf59953e09b2c9435eba939a0038c5ca8ce",
-       "download_count": 1
+       "download_count": 2
       },
       {
        "name": "AETHER-Focus.exe",
        "size": 33703896,
        "browser_download_url": "https://github.com/AetherSoftwareInc/AETHER-Focus/releases/download/v1.0.0/AETHER-Focus.exe",
        "digest": "sha256:622a2f1ea577380b636b638141df49b994de0364f89e383355407b563682850c",
-       "download_count": 2
+       "download_count": 3
       }
      ]
     }
@@ -214,7 +247,7 @@
        "size": 18348677,
        "browser_download_url": "https://github.com/AetherSoftwareInc/AETHER-Rig/releases/download/v1.1.0/Aether-Rig-mac-arm64.zip",
        "digest": "sha256:cf6606894cffa42e495d15208b27c8c9df332f26f0c5efa5c191a114f3959e47",
-       "download_count": 1
+       "download_count": 2
       },
       {
        "name": "Aether-Rig-mac-intel.zip",
@@ -707,7 +740,7 @@
     "size": 18978952,
     "browser_download_url": "https://github.com/AetherSoftwareInc/AETHER-Store/releases/download/v4.7.1/Aether-Launcher-mac-arm64.zip",
     "digest": "sha256:a5213130bf6aab1e3d367d01be966fc02bb78539720b881ebc92514afe24b900",
-    "download_count": 1
+    "download_count": 2
    },
    {
     "name": "Aether-Launcher-mac-intel.dmg",
