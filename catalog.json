@@ -92,9 +92,112 @@
    "body": "Neuer Name, neues Overlay: Mit Alt + Leertaste hast du Apps, Freunde, KI und Musik jetzt über jedem Spiel."
   }
  ],
- "generated_at": "2026-11-28T02:13:57+00:00",
+ "generated_at": "2026-11-28T03:41:18+00:00",
  "user": "pralle7747-max",
  "repos": [
+  {
+   "name": "AETHER-Rig",
+   "full_name": "pralle7747-max/AETHER-Rig",
+   "description": "AETHER Rig – Gaming-PC-Cockpit von Aether Software: Hardware, Treiber, Spiele, Boost, Aufräumen",
+   "html_url": "https://github.com/pralle7747-max/AETHER-Rig",
+   "homepage": null,
+   "language": null,
+   "topics": [
+    "aether",
+    "gaming",
+    "pc",
+    "system",
+    "windows"
+   ],
+   "stargazers_count": 0,
+   "pushed_at": "2026-11-28T02:58:31Z",
+   "releases": [
+    {
+     "tag_name": "v1.1.0",
+     "name": "AETHER Rig 1.1.0",
+     "body": "## AETHER Rig 1.1.0 – Training & Werkzeuge\n\n**Neu: AETHER Aim** – Aim-Trainer direkt in Rig\n- Übungen: Flick, Tracking, Reaktion, Präzision, Klick-Timing\n- Einstellbar: Dauer, Zielgröße, Tempo, Farbe, „Maus fangen“ mit Empfindlichkeit\n- Bestwerte, Verlauf und Freunde-Bestenliste (mit AETHER-Konto)\n\n**Neu: Fadenkreuz-Overlay** – eigenes Fadenkreuz in der Bildschirmmitte (Form, Farbe, Größe, Lücke). Klicks gehen hindurch, Rig greift nicht ins Spiel ein.\n\n**Neu: Werkzeuge**\n- Sensitivity-Umrechner (CS2, Valorant, Apex, Overwatch 2, CoD, Fortnite) mit cm/360 und eDPI\n- Ping-Test zu Steam, Riot, Epic, Battle.net, EA, Xbox, Discord\n- Maustest: Klicks pro Sekunde, Doppelklick-Check, Abfragerate\n\n**Gratis & Pro:** AETHER Aim gratis 20 Min. pro Tag (Flick & Reaktion), Overlay & Fadenkreuz gratis 60 Min. pro Tag – mit kostenlosem AETHER-Konto. Mit AETHER Pro unbegrenzt und alle Übungen. Boost, Sensitivity-Umrechner, Ping- und Maustest sind immer frei.\n\nDiese Version gibt es vorerst nur für Windows. Die Mac-Version folgt.\n",
+     "html_url": "https://github.com/pralle7747-max/AETHER-Rig/releases/tag/v1.1.0",
+     "published_at": "2026-11-28T02:58:31Z",
+     "created_at": "2026-11-26T17:10:58Z",
+     "prerelease": false,
+     "draft": false,
+     "assets": [
+      {
+       "name": "AETHER-Rig.exe",
+       "size": 24413562,
+       "browser_download_url": "https://github.com/pralle7747-max/AETHER-Rig/releases/download/v1.1.0/AETHER-Rig.exe",
+       "digest": "sha256:4e3e0cfbbf341c234ceff78e5226a78f932b62a2865f805623d27d6ee2b21664",
+       "download_count": 2
+      }
+     ]
+    },
+    {
+     "tag_name": "v1.0.0",
+     "name": "AETHER Rig 1.0.0",
+     "body": "## AETHER Rig 1.0.0 – das Gaming-PC-Cockpit\n\nErste Version! 🎉\n\n- 🖥️ **Mein PC:** Live-Auslastung von Prozessor, Grafik, RAM und Laufwerken, Leistungs-Score und ehrliche Diagnose\n- 🧩 **Treiber-Check** für NVIDIA, AMD und Intel mit Links zu den offiziellen Herstellerseiten\n- 🎮 **Bibliothek** mit Spielen aus Steam, Epic, EA App, Ubisoft Connect, Battle.net, GOG, Xbox und deinen Aether-Apps\n- 🚦 **Läuft das bei mir?** – Steam-Anforderungen als Ampel\n- ⚡ **Boost-Modus** mit vollständigem Zurücksetzen\n- 🧹 **Aufräumen** mit Vorschau: Temp-Dateien, Shader-Caches, Papierkorb, Autostart\n- 📊 Mini-Overlay, optionales AETHER-Konto (Anmeldung aus dem Store wird übernommen), Auto-Update\n\nWindows 10/11 · keine Admin-Rechte nötig · läuft auch ohne Grafikkarte flüssig.\n",
+     "html_url": "https://github.com/pralle7747-max/AETHER-Rig/releases/tag/v1.0.0",
+     "published_at": "2026-11-26T17:11:16Z",
+     "created_at": "2026-11-26T17:10:58Z",
+     "prerelease": false,
+     "draft": false,
+     "assets": [
+      {
+       "name": "Aether-Rig-mac-arm64.zip",
+       "size": 18394654,
+       "browser_download_url": "https://github.com/pralle7747-max/AETHER-Rig/releases/download/v1.0.0/Aether-Rig-mac-arm64.zip",
+       "digest": "sha256:0f5c2e3c1a4cc4efac031d51ae1d580135b4e7eef0ca9911d3db41810172e5f4",
+       "download_count": 2
+      },
+      {
+       "name": "Aether-Rig-mac-intel.zip",
+       "size": 19258582,
+       "browser_download_url": "https://github.com/pralle7747-max/AETHER-Rig/releases/download/v1.0.0/Aether-Rig-mac-intel.zip",
+       "digest": "sha256:842d74820d7ca4dab4f18b5eebec6fd2f74907ae22f0c307c3bb227b54a970c7",
+       "download_count": 1
+      },
+      {
+       "name": "AETHER-Rig.exe",
+       "size": 24318770,
+       "browser_download_url": "https://github.com/pralle7747-max/AETHER-Rig/releases/download/v1.0.0/AETHER-Rig.exe",
+       "digest": "sha256:698434598bdadda9c8949847c3f18c0192a81bbb512516c5fcf1de8e62629284",
+       "download_count": 3
+      }
+     ]
+    }
+   ],
+   "screenshots": [
+    {
+     "name": "1-mein-pc.png",
+     "sha": "41cae25282c653e037c6ff75f5ae783d13f7ef18",
+     "download_url": "https://raw.githubusercontent.com/pralle7747-max/AETHER-Rig/main/screenshots/1-mein-pc.png"
+    },
+    {
+     "name": "2-bibliothek.png",
+     "sha": "4754c2a73091732d273534dbc2608f397dd9cbcb",
+     "download_url": "https://raw.githubusercontent.com/pralle7747-max/AETHER-Rig/main/screenshots/2-bibliothek.png"
+    },
+    {
+     "name": "3-laeuft-das-bei-mir.png",
+     "sha": "18ee43fa9d704e1a38cd3d1a1b63e1d582988a0b",
+     "download_url": "https://raw.githubusercontent.com/pralle7747-max/AETHER-Rig/main/screenshots/3-laeuft-das-bei-mir.png"
+    },
+    {
+     "name": "4-boost.png",
+     "sha": "64ea69547111617b1cdfd39d9740fe2db8f6d0d4",
+     "download_url": "https://raw.githubusercontent.com/pralle7747-max/AETHER-Rig/main/screenshots/4-boost.png"
+    },
+    {
+     "name": "5-aufraeumen.png",
+     "sha": "b8e64dac8c4a25ca9b8182dc4dfa63cc67a909e1",
+     "download_url": "https://raw.githubusercontent.com/pralle7747-max/AETHER-Rig/main/screenshots/5-aufraeumen.png"
+    },
+    {
+     "name": "preview.gif",
+     "sha": "9484e93b37967843c37a1584edba1a97d2685a4e",
+     "download_url": "https://raw.githubusercontent.com/pralle7747-max/AETHER-Rig/main/screenshots/preview.gif"
+    }
+   ]
+  },
   {
    "name": "AETHER-Focus",
    "full_name": "pralle7747-max/AETHER-Focus",
@@ -128,21 +231,21 @@
        "size": 28688058,
        "browser_download_url": "https://github.com/pralle7747-max/AETHER-Focus/releases/download/v1.0.0/Aether-Focus-mac-arm64.zip",
        "digest": "sha256:94a7dc5039c651357a97169749c8235eec2f826b954ca78265630d247eec5692",
-       "download_count": 0
+       "download_count": 2
       },
       {
        "name": "Aether-Focus-mac-intel.zip",
        "size": 33491489,
        "browser_download_url": "https://github.com/pralle7747-max/AETHER-Focus/releases/download/v1.0.0/Aether-Focus-mac-intel.zip",
        "digest": "sha256:c40aa81fdb62bfa91fe9579d19c74cf59953e09b2c9435eba939a0038c5ca8ce",
-       "download_count": 0
+       "download_count": 1
       },
       {
        "name": "AETHER-Focus.exe",
        "size": 33703896,
        "browser_download_url": "https://github.com/pralle7747-max/AETHER-Focus/releases/download/v1.0.0/AETHER-Focus.exe",
        "digest": "sha256:622a2f1ea577380b636b638141df49b994de0364f89e383355407b563682850c",
-       "download_count": 0
+       "download_count": 2
       }
      ]
     }
@@ -235,90 +338,6 @@
    ]
   },
   {
-   "name": "AETHER-Rig",
-   "full_name": "pralle7747-max/AETHER-Rig",
-   "description": "AETHER Rig – Gaming-PC-Cockpit von Aether Software: Hardware, Treiber, Spiele, Boost, Aufräumen",
-   "html_url": "https://github.com/pralle7747-max/AETHER-Rig",
-   "homepage": null,
-   "language": null,
-   "topics": [
-    "aether",
-    "gaming",
-    "pc",
-    "system",
-    "windows"
-   ],
-   "stargazers_count": 0,
-   "pushed_at": "2026-11-26T17:11:16Z",
-   "releases": [
-    {
-     "tag_name": "v1.0.0",
-     "name": "AETHER Rig 1.0.0",
-     "body": "## AETHER Rig 1.0.0 – das Gaming-PC-Cockpit\n\nErste Version! 🎉\n\n- 🖥️ **Mein PC:** Live-Auslastung von Prozessor, Grafik, RAM und Laufwerken, Leistungs-Score und ehrliche Diagnose\n- 🧩 **Treiber-Check** für NVIDIA, AMD und Intel mit Links zu den offiziellen Herstellerseiten\n- 🎮 **Bibliothek** mit Spielen aus Steam, Epic, EA App, Ubisoft Connect, Battle.net, GOG, Xbox und deinen Aether-Apps\n- 🚦 **Läuft das bei mir?** – Steam-Anforderungen als Ampel\n- ⚡ **Boost-Modus** mit vollständigem Zurücksetzen\n- 🧹 **Aufräumen** mit Vorschau: Temp-Dateien, Shader-Caches, Papierkorb, Autostart\n- 📊 Mini-Overlay, optionales AETHER-Konto (Anmeldung aus dem Store wird übernommen), Auto-Update\n\nWindows 10/11 · keine Admin-Rechte nötig · läuft auch ohne Grafikkarte flüssig.\n",
-     "html_url": "https://github.com/pralle7747-max/AETHER-Rig/releases/tag/v1.0.0",
-     "published_at": "2026-11-26T17:11:16Z",
-     "created_at": "2026-11-26T17:10:58Z",
-     "prerelease": false,
-     "draft": false,
-     "assets": [
-      {
-       "name": "Aether-Rig-mac-arm64.zip",
-       "size": 18394654,
-       "browser_download_url": "https://github.com/pralle7747-max/AETHER-Rig/releases/download/v1.0.0/Aether-Rig-mac-arm64.zip",
-       "digest": "sha256:0f5c2e3c1a4cc4efac031d51ae1d580135b4e7eef0ca9911d3db41810172e5f4",
-       "download_count": 1
-      },
-      {
-       "name": "Aether-Rig-mac-intel.zip",
-       "size": 19258582,
-       "browser_download_url": "https://github.com/pralle7747-max/AETHER-Rig/releases/download/v1.0.0/Aether-Rig-mac-intel.zip",
-       "digest": "sha256:842d74820d7ca4dab4f18b5eebec6fd2f74907ae22f0c307c3bb227b54a970c7",
-       "download_count": 0
-      },
-      {
-       "name": "AETHER-Rig.exe",
-       "size": 24318770,
-       "browser_download_url": "https://github.com/pralle7747-max/AETHER-Rig/releases/download/v1.0.0/AETHER-Rig.exe",
-       "digest": "sha256:698434598bdadda9c8949847c3f18c0192a81bbb512516c5fcf1de8e62629284",
-       "download_count": 3
-      }
-     ]
-    }
-   ],
-   "screenshots": [
-    {
-     "name": "1-mein-pc.png",
-     "sha": "41cae25282c653e037c6ff75f5ae783d13f7ef18",
-     "download_url": "https://raw.githubusercontent.com/pralle7747-max/AETHER-Rig/main/screenshots/1-mein-pc.png"
-    },
-    {
-     "name": "2-bibliothek.png",
-     "sha": "4754c2a73091732d273534dbc2608f397dd9cbcb",
-     "download_url": "https://raw.githubusercontent.com/pralle7747-max/AETHER-Rig/main/screenshots/2-bibliothek.png"
-    },
-    {
-     "name": "3-laeuft-das-bei-mir.png",
-     "sha": "18ee43fa9d704e1a38cd3d1a1b63e1d582988a0b",
-     "download_url": "https://raw.githubusercontent.com/pralle7747-max/AETHER-Rig/main/screenshots/3-laeuft-das-bei-mir.png"
-    },
-    {
-     "name": "4-boost.png",
-     "sha": "64ea69547111617b1cdfd39d9740fe2db8f6d0d4",
-     "download_url": "https://raw.githubusercontent.com/pralle7747-max/AETHER-Rig/main/screenshots/4-boost.png"
-    },
-    {
-     "name": "5-aufraeumen.png",
-     "sha": "b8e64dac8c4a25ca9b8182dc4dfa63cc67a909e1",
-     "download_url": "https://raw.githubusercontent.com/pralle7747-max/AETHER-Rig/main/screenshots/5-aufraeumen.png"
-    },
-    {
-     "name": "preview.gif",
-     "sha": "9484e93b37967843c37a1584edba1a97d2685a4e",
-     "download_url": "https://raw.githubusercontent.com/pralle7747-max/AETHER-Rig/main/screenshots/preview.gif"
-    }
-   ]
-  },
-  {
    "name": "AETHER-Navigation",
    "full_name": "pralle7747-max/AETHER-Navigation",
    "description": null,
@@ -384,7 +403,7 @@
        "size": 20523546,
        "browser_download_url": "https://github.com/pralle7747-max/AETHER-Minecraft-Markt/releases/download/RELESE/Minecraft.Market.exe",
        "digest": "sha256:851c40aec7efeece1cfea896e04a14e4a9519f452482945e9c60d890c284dc3d",
-       "download_count": 6
+       "download_count": 7
       }
      ]
     }
@@ -483,7 +502,7 @@
        "size": 109720370,
        "browser_download_url": "https://github.com/pralle7747-max/Bany-AI/releases/download/v3.3.3/JarvisAgent.exe",
        "digest": "sha256:3b537251d7d8bccdac73cc57ce6442a2438535902164e9fa95a0399b10f6df40",
-       "download_count": 19
+       "download_count": 20
       }
      ]
     },
@@ -641,7 +660,7 @@
     "size": 19060679,
     "browser_download_url": "https://github.com/pralle7747-max/AETHER-Store/releases/download/v4.7.0/Aether-Launcher-mac-arm64.zip",
     "digest": "sha256:41987e6fa498a2fd5237216caee11c31d2285fc341ae3a47e795d3c453e608c3",
-    "download_count": 1
+    "download_count": 2
    },
    {
     "name": "Aether-Launcher-mac-intel.dmg",
