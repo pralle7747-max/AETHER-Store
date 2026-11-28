@@ -92,9 +92,63 @@
    "body": "Neuer Name, neues Overlay: Mit Alt + Leertaste hast du Apps, Freunde, KI und Musik jetzt über jedem Spiel."
   }
  ],
- "generated_at": "2026-11-27T22:37:27+00:00",
+ "generated_at": "2026-11-28T02:13:57+00:00",
  "user": "pralle7747-max",
  "repos": [
+  {
+   "name": "AETHER-Focus",
+   "full_name": "pralle7747-max/AETHER-Focus",
+   "description": "AETHER Focus – Auto-Drive für Rennspiele mit Navi-Route (Forza Horizon 5), von Aether Software",
+   "html_url": "https://github.com/pralle7747-max/AETHER-Focus",
+   "homepage": null,
+   "language": null,
+   "topics": [
+    "aether",
+    "auto-drive",
+    "forza",
+    "gaming",
+    "macos",
+    "windows"
+   ],
+   "stargazers_count": 0,
+   "pushed_at": "2026-11-28T02:13:23Z",
+   "releases": [
+    {
+     "tag_name": "v1.0.0",
+     "name": "AETHER Focus 1.0.0",
+     "body": "## AETHER Focus 1.0.0 – Auto-Drive\n\nErste Version! 🎉\n\n- 🚗 **Auto-Drive für Forza Horizon 5:** folgt der Navi-Route (blaue Pfeile auf der Straße + Minimap), lenkt weich, geht vor Kurven vom Gas\n- ⌨️ **F8** an/aus, **Not-Aus** mit jeder echten Taste W/A/S/D/Esc\n- 🎯 **Kalibrieren** mit Live-Vorschau und Voreinstellungen für 16:9, 16:10, 21:9, 32:9\n- 💎 **Gratis 1 Stunde pro Tag**, Pro unbegrenzt (im AETHER-Konto)\n- Windows 10/11 und macOS (Apple Silicon + Intel)\n\n⚠️ Nutzung auf eigenes Risiko – nur offline bzw. im Solo-Modus empfohlen.\n",
+     "html_url": "https://github.com/pralle7747-max/AETHER-Focus/releases/tag/v1.0.0",
+     "published_at": "2026-11-28T02:13:23Z",
+     "created_at": "2026-11-28T02:12:45Z",
+     "prerelease": false,
+     "draft": false,
+     "assets": [
+      {
+       "name": "Aether-Focus-mac-arm64.zip",
+       "size": 28688058,
+       "browser_download_url": "https://github.com/pralle7747-max/AETHER-Focus/releases/download/v1.0.0/Aether-Focus-mac-arm64.zip",
+       "digest": "sha256:94a7dc5039c651357a97169749c8235eec2f826b954ca78265630d247eec5692",
+       "download_count": 0
+      },
+      {
+       "name": "Aether-Focus-mac-intel.zip",
+       "size": 33491489,
+       "browser_download_url": "https://github.com/pralle7747-max/AETHER-Focus/releases/download/v1.0.0/Aether-Focus-mac-intel.zip",
+       "digest": "sha256:c40aa81fdb62bfa91fe9579d19c74cf59953e09b2c9435eba939a0038c5ca8ce",
+       "download_count": 0
+      },
+      {
+       "name": "AETHER-Focus.exe",
+       "size": 33703896,
+       "browser_download_url": "https://github.com/pralle7747-max/AETHER-Focus/releases/download/v1.0.0/AETHER-Focus.exe",
+       "digest": "sha256:622a2f1ea577380b636b638141df49b994de0364f89e383355407b563682850c",
+       "download_count": 0
+      }
+     ]
+    }
+   ],
+   "screenshots": []
+  },
   {
    "name": "AETHER-Replay",
    "full_name": "pralle7747-max/AETHER-Replay",
@@ -128,7 +182,7 @@
        "size": 31524150,
        "browser_download_url": "https://github.com/pralle7747-max/AETHER-Replay/releases/download/v1.0.0/Aether-Replay-mac-arm64.zip",
        "digest": "sha256:94d88efefac889a1d4110463ea8cdcb43ddb616c1c36fbdb050ebe0419d49c55",
-       "download_count": 0
+       "download_count": 1
       },
       {
        "name": "Aether-Replay-mac-intel.zip",
@@ -580,42 +634,42 @@
     "size": 20718753,
     "browser_download_url": "https://github.com/pralle7747-max/AETHER-Store/releases/download/v4.7.0/Aether-Launcher-mac-arm64.dmg",
     "digest": "sha256:59f55950ed363bc441b05aaec7df9e40d5986ee155a0b3969359cb3117a8eb0f",
-    "download_count": 0
+    "download_count": 1
    },
    {
     "name": "Aether-Launcher-mac-arm64.zip",
     "size": 19060679,
     "browser_download_url": "https://github.com/pralle7747-max/AETHER-Store/releases/download/v4.7.0/Aether-Launcher-mac-arm64.zip",
     "digest": "sha256:41987e6fa498a2fd5237216caee11c31d2285fc341ae3a47e795d3c453e608c3",
-    "download_count": 0
+    "download_count": 1
    },
    {
     "name": "Aether-Launcher-mac-intel.dmg",
     "size": 22649261,
     "browser_download_url": "https://github.com/pralle7747-max/AETHER-Store/releases/download/v4.7.0/Aether-Launcher-mac-intel.dmg",
     "digest": "sha256:8b1bbdcfbdbe3352b84053a7ce6ba1e26c2dc79effb7d4d445cdb3413ae45df1",
-    "download_count": 0
+    "download_count": 1
    },
    {
     "name": "Aether-Launcher-mac-intel.zip",
     "size": 19924322,
     "browser_download_url": "https://github.com/pralle7747-max/AETHER-Store/releases/download/v4.7.0/Aether-Launcher-mac-intel.zip",
     "digest": "sha256:e9921f0b3e9e9a7e0bd3dc0579b59b59e515a3b2ac981436b896440f4c3e2247",
-    "download_count": 0
+    "download_count": 1
    },
    {
     "name": "Aether-Launcher-Setup.exe",
     "size": 21043088,
     "browser_download_url": "https://github.com/pralle7747-max/AETHER-Store/releases/download/v4.7.0/Aether-Launcher-Setup.exe",
     "digest": "sha256:9d15dfeae0f8e3910363bb01cfffd6a2a565b744e327a74f3a54368059bfc357",
-    "download_count": 0
+    "download_count": 2
    },
    {
     "name": "Aether-Launcher.exe",
     "size": 25876330,
     "browser_download_url": "https://github.com/pralle7747-max/AETHER-Store/releases/download/v4.7.0/Aether-Launcher.exe",
     "digest": "sha256:ac0f3aba76a92c546e1097195a6fab4d761affcec2164283ec0e96a0d54b8298",
-    "download_count": 0
+    "download_count": 2
    }
   ]
  }
