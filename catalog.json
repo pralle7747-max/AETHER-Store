@@ -92,7 +92,7 @@
    "body": "Neuer Name, neues Overlay: Mit Alt + Leertaste hast du Apps, Freunde, KI und Musik jetzt über jedem Spiel."
   }
  ],
- "generated_at": "2026-11-28T17:18:09+00:00",
+ "generated_at": "2026-11-28T20:25:16+00:00",
  "user": "AetherSoftwareInc",
  "repos": [
   {
@@ -128,7 +128,7 @@
        "size": 28541461,
        "browser_download_url": "https://github.com/AetherSoftwareInc/AETHER-Focus/releases/download/v1.1.0/Aether-Focus-mac-arm64.zip",
        "digest": "sha256:1ee8a9bac0d07090c8ca3cbfd2eac547e0dc089495aa53b9f97a112a01034a96",
-       "download_count": 0
+       "download_count": 1
       },
       {
        "name": "Aether-Focus-mac-intel.zip",
@@ -142,7 +142,7 @@
        "size": 33397339,
        "browser_download_url": "https://github.com/AetherSoftwareInc/AETHER-Focus/releases/download/v1.1.0/AETHER-Focus.exe",
        "digest": "sha256:6e2e9c7e43333faa76449240b215b126962bc36036f8bdc36abb6352a4c65e76",
-       "download_count": 0
+       "download_count": 3
       }
      ]
     },
