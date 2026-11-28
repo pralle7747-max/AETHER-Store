@@ -15,7 +15,7 @@ import urllib.error
 import urllib.request
 from datetime import datetime, timezone
 
-USER = os.environ.get("CATALOG_USER", "pralle7747-max")
+USER = os.environ.get("CATALOG_USER", "AetherSoftwareInc")
 STORE_REPO = f"{USER}/AETHER-Store"
 TOKEN = os.environ.get("GITHUB_TOKEN", "")
 API = "https://api.github.com"
